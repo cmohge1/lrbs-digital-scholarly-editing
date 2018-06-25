@@ -4,10 +4,6 @@ title: Day 2
 permalink: /day2/
 ---
 
-# [London Rare Books School 2018:](https://cmohge1.github.io/lrbs-scholarly-editing/)
-
-## Digital Scholarly Editing, Day 2
-
 ## Synopsis
 
 Today will feature an introduction to documentary editing, an introduction to the Text Encoding Initiative (TEI), and a demonstration of documentary editing with Senate House Library manuscripts.

@@ -3,9 +3,6 @@ layout: page
 title: Day 3
 permalink: /day3/
 ---
-# [London Rare Books School 2018:](https://cmohge1.github.io/lrbs-scholarly-editing/)
-
-## Digital Scholarly Editing, Day 3
 
 ## Synopsis
 

@@ -3,6 +3,7 @@ layout: page
 title: Day 4
 permalink: /day4/
 ---
+## Synopsis
 
 ### Day 4 (Thursday, 5 July)
 
@@ -13,7 +14,7 @@ Time | Topic | Type |
 14.00 | Seminar 11: Customising the TEI; problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview | Discussion; Digital lab |
 16.00 | Library Time |             |
 
-# Afternoon: Computer-Assisted Collation
+## Seminar 11: Computer-Assisted Collation
 
 ## Summary
 
