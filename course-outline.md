@@ -10,15 +10,15 @@ Course readings are either hyperlinked in the plan of each of day or downloadabl
 
 ## Schedule
 
-Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](/day1/day_1_plan.md).
+Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](/day_1_plan.md).
 
-Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day2/day_2_plan.md).
+Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day_2_plan.md).
 
-Day 3: [Eclectic editing; TEI continued](/day3/day_3_plan.md).
+Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
 
-Day 4: [Genetic Text Editing; customising TEI](/day4/day_4_plan.md).
+Day 4: [Genetic Text Editing; customising TEI](/day_4_plan.md).
 
-Day 5: [Editing Manuscript Images with TextLab; Transforming Editorial Data with R, XPath, and XSLT](/day5/day_5_plan.md).
+Day 5: [Editing Manuscript Images with TextLab; Transforming Editorial Data with R, XPath, and XSLT](/day_5_plan.md).
 
 ## Detailed Schedule (Subject to Change)
 
