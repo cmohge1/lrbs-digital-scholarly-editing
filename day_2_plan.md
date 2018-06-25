@@ -16,9 +16,7 @@ Today will feature an introduction to documentary editing, an introduction to th
 
 ## Readings
 
-1. W. W. Greg, "The Rationale of Copy Text"
-
-2. Fredson Bowers, "Some Principles..."
+1. G. Thomas Tanselle, ["The Editing of Historical Documents."](/readings/tanselle_editing_historical _documents.pdf)
 
 ## Schedule
 
