@@ -6,9 +6,13 @@ permalink: /day3/
 
 ## Synopsis
 
-Today will examine genetic criticism and genetic editing.
+Today will examine eclectic text editing and learn more about TEI.
 
 ## Aims
+
+- An understanding of what makes an eclectic text, and how it fits into editorial tradition.
+- The ability to create and encode an *apparatus criticus*.
+- A set of principles for annotating scholarly editions.
 
 ## Readings
 
