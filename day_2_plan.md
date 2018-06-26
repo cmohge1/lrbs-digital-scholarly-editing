@@ -30,14 +30,14 @@ Time  | Topic                                                                  |
 #### Readings
 
 1. G. Thomas Tanselle, ["The Editing of Historical Documents."](/readings/tanselle_editing_historical _documents.pdf)
-2. Lou Burnard's *What is the TEI?*(https://books.openedition.org/oep/426)
+2. Lou Burnard's [*What is the TEI?*](https://books.openedition.org/oep/426)
 3. James Cummings, ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
 
 To make a long article short: transcribe as much as possible.
 
 Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text.
 
-[Access the TEI intro slides here.](/day1/TEI-slides.html).
+[Access the TEI intro slides here.](/Day2/TEI-slides.html).
 
 ### Seminar 4: TEI and ODD; TEI for Documentary Editing
 
