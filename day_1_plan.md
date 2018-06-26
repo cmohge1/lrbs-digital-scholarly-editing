@@ -25,7 +25,7 @@ Time  | Topic                                                                   
 14.00 | Seminar 1: Brief history of Scholarly Editing                                 | Presentation, Discussion |
 16.00 | Seminar 2: Digital Editing Workflow, Transcription; Brief Introduction to XML | Digital lab              |
 
-## Seminar 1: Brief History of Scholarly editing
+## Seminar 1: Brief History of Scholarly Editing
 
 ### Readings
 
