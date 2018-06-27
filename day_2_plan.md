@@ -11,8 +11,8 @@ Today will feature an introduction to documentary editing, an introduction to th
 ## Aims
 
 - Understand the difference between documentary editing and other forms of editing.
-
 - General grasp of the Text Encoding Initiative and TEI schemas.
+- Understanding of modelling texts.
 
 ## Schedule
 
@@ -21,7 +21,7 @@ Today will feature an introduction to documentary editing, an introduction to th
 Time  | Topic                                                                  | Type
 :---- | :--------------------------------------------------------------------- | :-----------------------
 9.30  | Seminar 3: Documentary Editing; Introduction to the Text Encoding Initiative (TEI)                                        | Presentation, Discussion |
-11.30 | Seminar 4: TEI and ODD; TEI for documentary editing | Presentation, discussion |
+11.30 | Seminar 4: Text modelling; TEI and ODD | Presentation, discussion |
 14.00 | Seminar 5: Building ODD for Documentary Editions: letters and journals | Digital lab              |
 16.00 | Library Time                                                           | Presentation             |
 
@@ -32,13 +32,14 @@ Time  | Topic                                                                  |
 1. G. Thomas Tanselle, ["The Editing of Historical Documents."](/readings/tanselle_editing_historical _documents.pdf)
 2. Lou Burnard's [*What is the TEI?*](https://books.openedition.org/oep/426)
 3. James Cummings, ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
+4. Elena Pierazzo, *Digital Scholarly Editing* (Chapter 2).
 
 #### Documentary Editing
 To make a long article short: transcribe as much as possible.
 
 Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text.
 
-[Example 1: Mark Twain's notebook and journals. Access slides here.](/Day2/mark-twain-journals.pdf)
+[Example 1: Mark Twain's notebooks and journals. Access slides here.](/Day2/mark-twain-journals.pdf)
 
 [Example 2: Christopher Cranch's 1834 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
@@ -47,6 +48,22 @@ Yet: one cannot transcribe everything. As soon as transcription happens, an elem
 [Access the TEI intro slides here.](/Day2/TEI-intro-slides.html)
 
 #### Seminar 4
+
+#### Text Modelling
+
+"[E]very electronic representation of text is an interpretation" (Paul Eggert, *Securing the Past*, Cambridge UP, 2009).
+
+And an argument, many say. Are these points obvious, or absurd?
+
+Modelling: Our notions of modelling a text are really inherent in textual editing activities, but the theorising about modeling could point back to Willard McCarty's
+
+Patrick Sahle's model (of text modelling):
+
+![Sahle_model](/day2/patrick_sahle_modelling.jpg)
+
+(For the full slideshow, go to <http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf>. And for his essay on the subject, click go to <https://www.openbookpublishers.com/htmlreader/978-1-78374-238-7/ch2.xhtml>.)
+
+What do you think?
 
 #### TEI and ODD; TEI for Documentary Editing
 

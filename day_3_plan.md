@@ -37,6 +37,10 @@ Time | Topic | Type |
 
 What is the copy-text? The Greg-Bowers method.
 
+Example 1: King Lear.
+
+Example 2: *Moby-Dick*.
+
 ### Seminar 7: Encoding critical apparatus in TEI
 
 ### Seminar 8: Editing a clear text: stories and poems; Principles of Annotation; Writing and encoding annotation

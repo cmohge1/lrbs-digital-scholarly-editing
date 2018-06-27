@@ -58,7 +58,6 @@ Good news: few projects require a complete knowledge of the TEI, and most projec
 Every TEI document has at least two parts: a teiHeader (containing metadata–––i.e., data describing the document), and the text (typically represented by a <text> element), in which its structure is represented by elements such as <front>, <body>, and <back>. Within these three structural divisions are further sub-divisions often encoded with <div> tags.
 
 ---
-
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sha-ham">
@@ -71,16 +70,7 @@ Every TEI document has at least two parts: a teiHeader (containing metadata–�
                     <name>Craig A. Berry, Martin Mueller, and Clifford Wulfman</name>
                     <resp>editors</resp>
                 </respStmt>
-                <respStmt>
-                    <name>Jeffrey Cousens and Bill Parod</name>
-                    <resp>technical editors</resp>
-                </respStmt>
-                <respStmt>
-                    <name>Lawrence Berland, Hilary Bina, Katherine Gould, Kreg Segal,
-                    Nicholas
-                    Terrell</name>
-                    <resp>editorial assistants</resp>
-                </respStmt>
+                ...
             </titleStmt>
             <publicationStmt>
                 <p>
@@ -92,7 +82,24 @@ Every TEI document has at least two parts: a teiHeader (containing metadata–�
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <text>
+        <front>
+            <div xml:id="sha-hamcast" type="castList">
+                <head>Dramatis Personae</head>
+                ... </head> ...
+              </div>
+          </body>
+      </text>
+  </TEI>
+
 ```
+---
+
+TEI proposes a single element `<div>` for any such structural subdivision of the body of a text.
+
+Each `<div>` should have at least a @type attribute, and eventually @xml:id.
+
+
 
 ---
 
