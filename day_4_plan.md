@@ -49,14 +49,14 @@ Social text/sociology of text.
 
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
-<p>Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):
+<p>Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):<p>
 
 <code>
-<milestone n="24" unit="leaf" />
+`<milestone n="24" unit="leaf" />
 <pb facs='#img_24'/>
 <ab>
   <metamark place="margin(right)" function="folio"
-  rend="no-caret _HMp" change="St1833a"
+  rend="no-caret \_HMp" change="St1833a"
   facs="#img_24-0002" >9</metamark>
 <lg type="poem" >
   <hi rend="italic">The Grave of Wilberforce</hi>
@@ -80,9 +80,8 @@ Social text/sociology of text.
     <lb/>
   </lg>
   </lg>
-</ab>
+</ab>`
 </code>
-</p>
 
 <p>7. When finished with the transcription, click "Submit."</p>
 
