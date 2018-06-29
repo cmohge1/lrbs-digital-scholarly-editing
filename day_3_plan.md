@@ -52,11 +52,13 @@ What did Greg actually argue?
 
 It's important to note that Greg's ideas came out of the context of Renaissance literature, which presents a textual situation that is unique from, and requires different treatment than, more recent literature (i.e., from the nineteenth and twentieth century).
 
-Example 1: Shakespeare: *King Lear* and *Othello*.
+Example 1: Shakespeare: *King Lear* and *Othello*. See Greg, from *Editorial Problems in Shakespeare* and [Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
-Example 2: Dickens's *David Copperfield*.
+Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) and Empson on Bentley's editiing of Milton.
 
-Example 3: Mark Twain's *Adventures of Huckleberry Finn*.
+Example 3: Dickens's *David Copperfield*. [See Gaskell](../readings/Gaskell_on_Dickens.pdf).
+
+Example 4: [Mark Twain's *Adventures of Huckleberry Finn*](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
 
 ### Seminar 7: Encoding critical apparatus in TEI
 

@@ -59,6 +59,8 @@ Time  | Topic                                                                   
 
 <details>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies.</details>
 
+<details><ul>Philology: Lachmannian method: </ul></details>
+
 <details>
   <summary>Housman's thought</summary>
   <p>
