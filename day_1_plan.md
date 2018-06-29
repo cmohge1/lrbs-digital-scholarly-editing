@@ -29,7 +29,7 @@ Time  | Topic                                                                   
 
 ### Readings
 
-1. "A History of Textual Scholarship" (Greetham, from the *Cambridge Companion to Textual Scholarship*).
+1. [Greetham, "A History of Textual Scholarship"](/day1/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
 
 2. [A. E. Housman, "The Application of Thought to Textual Criticism"](../readings/housman_application_of_thought.html) (*Art and Error*).
 
@@ -56,6 +56,8 @@ Time  | Topic                                                                   
 <li>Another figure worth noting: Lorenzo Valla (1407–57), the great debunker of forgeries: the <em>Donation of Constantine</em> and the letters of Seneca and St. Paul. He also sought to emend Jerome's <em>Vulgate</em>. His edition, based on Greek and patristic texts, was published by Erasmus in 1505. Similarly, Politian (1454–94) searched for earliest recoverable version of a manuscript––this foreshadowed the genealogical method of plotting a linear path of textual transmission. Politian derived the method of <em>elminatio codicum descriptorum</em>, the removal of "descriptive" or derived copies as witnesses to an authentic version. This led to the method (very much in use to this day) of <em>stemma codicum</em>, the "family tree" of textual versions.</li>
 </ul>
 </details>
+
+<details>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies.</details>
 
 <details>
   <summary>Housman's thought</summary>
