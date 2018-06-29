@@ -125,6 +125,15 @@ First we will look at the most basic of transcription: Markdown. This is lightwe
 </p>
 </details>
 
+<details><summary>Basic components of a digital edition</summary>
+<ul>Source file(s) of transcribed text and metadata encoded in XML. The best encoding practice is to use the Text Encoding Initiative (TEI) standards, but it's not necessary.</ul>
+<ul>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</ul>
+<ul>The edition, as transformed by the former, in html.</ul>
+<ul>Files for styling the edition's html interface (CSS, JavaScript)</ul>
+
+<p></p>
+</details>
+
 [Access the Markdown slides here.](https://christopherohge.com/MarkdownLRBS.pdf)
 
 ### Markdown exercise

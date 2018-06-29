@@ -37,10 +37,33 @@ Time | Topic | Type |
 
 What is the copy-text? The Greg-Bowers method.
 
-Example 1: King Lear.
+Authorial intention. The goal with so-called "copy-text" editing is to reconstruct the text that comes closest to the author's final intentions.
 
-Example 2: *Moby-Dick*.
+This comes out of two general scenarios:
+
+1. We have an autograph manuscript and a later printing of the work.
+2. We do not have a manuscript but we have multiple versions of the printed work.
+
+In either scenario, the editor choses as "copy text" the earliest version, or (in some rare cases) some other version that appears to be closest to the author's final intentions (see Stephen Crane's *Red Badge of Courage* as an example of that rare case).
+
+*Substantives* versus *accidentals*: the editor is advised to select *substantive* (meaningful words) readings from the first or most authoritative printing and the *accidentals* (punctuation, spelling, capitalisation) from the manuscript or first printed source.
+
+What did Greg actually argue?
+
+It's important to note that Greg's ideas came out of the context of Renaissance literature, which presents a textual situation that is unique from, and requires different treatment than, more recent literature (i.e., from the nineteenth and twentieth century).
+
+Example 1: Shakespeare: *King Lear* and *Othello*.
+
+Example 2: Dickens's *David Copperfield*.
+
+Example 3: Mark Twain's *Adventures of Huckleberry Finn*.
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
-### Seminar 8: Editing a clear text: stories and poems; Principles of Annotation; Writing and encoding annotation
+### Seminar 8:
+
+#### Editing a clear text: stories and poems
+
+#### Principles of Annotation
+
+#### Writing and encoding annotation
