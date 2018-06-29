@@ -14,12 +14,6 @@ Today will examine eclectic text editing and learn more about TEI.
 - The ability to create and encode an *apparatus criticus*.
 - A set of principles for annotating scholarly editions.
 
-## Readings
-
-1. W. W. Greg, "The Rationale of Copy Text"
-
-2. Fredson Bowers, "Some Principles..."
-
 ## Schedule
 
 ### Day 3 (Wednesday, 4 July)
@@ -32,6 +26,12 @@ Time | Topic | Type |
 16.00 | Library Time |
 
 ### Seminar 6: Eclectic/clear text Editing
+
+### Readings
+
+1. W. W. Greg, "The Rationale of Copy Text"
+2. Fredson Bowers, "Some Principles..."
+3. Tanselle.
 
 #### Lecture Notes
 

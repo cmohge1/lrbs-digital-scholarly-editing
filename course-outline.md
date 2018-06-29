@@ -16,9 +16,9 @@ Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)]
 
 Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
 
-Day 4: [Genetic Text Editing; customising TEI](/day_4_plan.md).
+Day 4: [Genetic Criticism and Fluid Text Editing; customising TEI](/day_4_plan.md).
 
-Day 5: [Editing Manuscript Images with TextLab; Transforming Editorial Data with R, XPath, and XSLT](/day_5_plan.md).
+Day 5: [Transforming Editorial Data with R, XPath, and XSLT; Open discussion on publishing editions](/day_5_plan.md).
 
 ## Detailed Schedule (Subject to Change)
 
@@ -54,7 +54,7 @@ Time | Topic | Type |
 Time | Topic | Type |
 :----|:------|:-----|
 9.30 | Seminar 9: Genetic editing, genetic criticism | Presentation, Discussion |
-11.30 | Seminar 10: Using TEI to mark-up versions of texts | Digital lab  |
+11.30 | Seminar 10: Using TEI to mark-up versions of texts with TextLab | Digital lab |
 14.00 | Seminar 11: Customising the TEI; problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview | Discussion; Digital lab |
 16.00 | Library Time |             |
 
@@ -62,5 +62,5 @@ Time | Topic | Type |
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
-9.30 | Seminar 12: Fluid Text Editing; Quick introduction to XPath and XSLT | Presentation, Discussion |
-11.30 | Seminar 13: Using TextLab to edit manuscript images | Digital lab |
+9.30 | Seminar 12: Quick introduction to XPath and XSLT | Digital lab |
+11.30 | Seminar 13: Open discussion: publishing editions | Discussion |

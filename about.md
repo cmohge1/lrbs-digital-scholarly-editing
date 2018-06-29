@@ -20,15 +20,15 @@ Welcome to the London Rare Books School summer 2018 module on Digital Scholarly 
 
 ## Schedule
 
-Day 1: [Brief History of Scholarly Editing; The problem of the Copy-text; Transcription](../day1/).
+Day 1: [Brief History of Scholarly Editing; Transcription and digital workflow](/day_1_plan.md).
 
-Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](../day2).
+Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)](/day_2_plan.md).
 
-Day 3: [Eclectic editing; TEI continued](../day3).
+Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
 
-Day 4: [Genetic Text Editing; customising TEI](../day4).
+Day 4: [Genetic Criticism and Fluid Text Editing; customising TEI](/day_4_plan.md).
 
-Day 5: [Editing Manuscript Images with TextLab; Transforming Editorial Data with R, XPath, and XSLT](../day5).
+Day 5: [Transforming Editorial Data with R, XPath, and XSLT; Open discussion on publishing editions](/day_5_plan.md).
 
 ## Course Reading list
 

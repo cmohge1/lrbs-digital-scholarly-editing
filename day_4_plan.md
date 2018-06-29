@@ -9,8 +9,8 @@ permalink: /day4/
 
 Time | Topic | Type |
 :----|:------|:-----|
-9.30 | Seminar 9: Genetic editing, genetic criticism | Presentation, Discussion |
-11.30 | Seminar 10: Using TEI to mark-up versions of texts | Digital lab  |
+9.30 | Seminar 9: Genetic criticism, genetic editing, fluid text editing | Presentation, Discussion |
+11.30 | Seminar 10: Using TEI to mark-up versions of texts with TextLab | Digital lab  |
 14.00 | Seminar 11: Customising the TEI; problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview | Discussion; Digital lab |
 16.00 | Library Time |             |
 
@@ -24,7 +24,7 @@ This session will survey two digital approaches for collating texts.
 
 The traditional method of collation has been tedious: you literally read versions of texts side-by-side and note the differences in a collation table.
 
-[Something on the Hinman collater.]
+The Hinman collater.
 
 In most cases, machine-collation can detect differences that human eyes often miss: punctuation differences, capitalization, even entire lines of text. Two very effective methods of machine-collation can be achieved with Juxta and Collatex. Juxta is easier to use, and quite effective, but it lacks flexibility, and some texts require a lot more nuanced treatment. For more bespoke text projects with a lot of textual variation, Collatex is an ideal program. It is faster and fully customizable, yet it lacks the accessible interface of Juxta. Like any other editorial project, your decision of what to use depends on your documents, and how you would like to present those documents.
 
