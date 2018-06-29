@@ -49,7 +49,7 @@ Social text/sociology of text.
 
 6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.
 
-Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):
+<p>Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):
 
 ~~~~
 <milestone n="24" unit="leaf" />
@@ -82,14 +82,15 @@ Here is an example of the first stanza of a poem, “The Grave of Wilberforce”
   </lg>
 </ab>
 ~~~~
+</p>
 
-7. When finished with the transcription, click "Submit."
+<p>7. When finished with the transcription, click "Submit."</p>
 
-8. After submission, the editor will review the leaf.
+<p>8. After submission, the editor will review the leaf.</p>
 
-9. Once it is accepted and re-shared, one can then input revision narratives.
+<p>9. Once it is accepted and re-shared, one can then input revision narratives.</p>
 
-10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.
+<p>10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.</p>
 
 </details>
 
@@ -103,11 +104,11 @@ Here is an example of the first stanza of a poem, “The Grave of Wilberforce”
 
 <details><summary>Exercise 1</summary>
 
-Return to the poem you marked up on Day 1, Edward Thomas's "The Child on the Cliffs." Either open the original text file, and paste the text into a blank xml file in oXygen, or use your file that was converted from markdown to xml.
+<p>Return to the poem you marked up on Day 1, Edward Thomas's "The Child on the Cliffs." Either open the original text file, and paste the text into a blank xml file in oXygen, or use your file that was converted from markdown to xml.</p>
 
-Say we would like to mark up all instances of speakers with `<speaker>` tags (for more on this see the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DR.html#DRSP)).
+<p>Say we would like to mark up all instances of speakers with `<speaker>` tags (for more on this see the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DR.html#DRSP)).</p>
 
-What happens to the XML validation?
+<p>What happens to the XML validation?</p>
 </details>
 <br />
 Customising TEI in your ODD file.
