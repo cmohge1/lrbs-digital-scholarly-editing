@@ -29,29 +29,29 @@ Social text/sociology of text.
 
 <details><summary>General Instructions</summary>
 
-1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."
+<p>1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."</p>
 
-2. Find “Bow in the Cloud” and click "Edit."
+<p>2. Find “Bow in the Cloud” and click "Edit."</p>
 
-3. Find your Image number on the left-hand pane and click on it.
+<p>3. Find your Image number on the left-hand pane and click on it.</p>
 
-4. Click on "New" on the right-hand side of the editing pane. Enter the name of your file in the following format bic_leaf[number_your initials]
+<p>4. Click on "New" on the right-hand side of the editing pane. Enter the name of your file in the following format bic_leaf[number_your initials]</p>
 
-5. Transcribe the text (all of it).
+<p>5. Transcribe the text (all of it).</p>
 
-* setting up the leaf's structure: select the "milestone" box, and input the appropriate unit (leaf) number.
+<p>* setting up the leaf's structure: select the "milestone" box, and input the appropriate unit (leaf) number.</p>
 
-* link the leaf image to the transcription by clicking on the "pb" box.
+<p>* link the leaf image to the transcription by clicking on the "pb" box.</p>
 
-* select the "ab" box (which will surround the text transcription).
+<p>* select the "ab" box (which will surround the text transcription).</p>
 
-* transcribe all of the metamarks first, then focus on transcribing the whole text.
+<p>* transcribe all of the metamarks first, then focus on transcribing the whole text.</p>
 
-6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.
+<p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
 <p>Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):
 
-~~~~
+<code>
 <milestone n="24" unit="leaf" />
 <pb facs='#img_24'/>
 <ab>
@@ -81,7 +81,7 @@ Social text/sociology of text.
   </lg>
   </lg>
 </ab>
-~~~~
+</code>
 </p>
 
 <p>7. When finished with the transcription, click "Submit."</p>
