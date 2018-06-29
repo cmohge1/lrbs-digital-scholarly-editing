@@ -59,7 +59,7 @@ Modelling: Our notions of modelling a text are really inherent in textual editin
 
 Patrick Sahle's model (of text modelling):
 
-![Sahle_model](/Day2/patrick_sahle_modelling.jpg)
+![Sahle_model](/day2/patrick_sahle_modelling.jpg)
 
 (For the full slideshow, go to <http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Patrick_Sahle_-_Digital_Modelling.pdf>. And for his essay on the subject, click go to <https://www.openbookpublishers.com/htmlreader/978-1-78374-238-7/ch2.xhtml>.)
 
@@ -79,3 +79,5 @@ The ODD validates the TEI document.
 ### Seminar 5 (Senate House Library): Using TEI for documentary editions: letters and journals
 
 TEI/ODD Exercise:
+
+For more on customisation, read [Burnard](https://books.openedition.org/oep/692). We will also return to this topic on Day 4.

@@ -49,9 +49,9 @@ In either scenario, the editor choses as "copy text" the earliest version, or (i
 
 *Substantives* versus *accidentals*: the editor is advised to select *substantive* (meaningful words) readings from the first or most authoritative printing and the *accidentals* (punctuation, spelling, capitalisation) from the manuscript or first printed source.
 
-What did Greg actually argue?
+What did Greg actually argue? <!-- insert quotes -->
 
-It's important to note that Greg's ideas came out of the context of Renaissance literature, which presents a textual situation that is unique from, and requires different treatment than, more recent literature (i.e., from the nineteenth and twentieth century).
+It's important to stress that Greg's ideas came out of the context of Renaissance literature, which presents a textual situation that is unique from, and requires different treatment than, more recent literature (i.e., from the nineteenth and twentieth century).
 
 Example 1: Shakespeare: *King Lear* and *Othello*. See Greg, from *Editorial Problems in Shakespeare* and [Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
