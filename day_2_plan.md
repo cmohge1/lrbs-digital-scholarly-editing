@@ -55,7 +55,7 @@ Yet: one cannot transcribe everything. As soon as transcription happens, an elem
 
 And an argument, many say. Are these points obvious, or absurd?
 
-Modelling: Our notions of modelling a text are really inherent in textual editing activities, but the theorising about modeling could point back to Willard McCarty's
+Modelling: Our notions of modelling a text are really inherent in textual editing activities, but the theorising about modeling could point back to Willard McCarty's insistence on the centrality of modelling in digital humanities projects (see his *Humanities Computing*, Palgrave, 2005).
 
 Patrick Sahle's model (of text modelling):
 
