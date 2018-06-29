@@ -22,6 +22,8 @@ Day 5: [Transforming Editorial Data with R, XPath, and XSLT; Open discussion on 
 
 ## Detailed Schedule (Subject to Change)
 
+(Please note that I will hold office hours in Room 242 for further consultation between 8.30–9.30 and 16.00–17.00)
+
 ### Day 1 (Monday, 2 July)
 
 Time      | Topic  | Type    |
@@ -63,4 +65,4 @@ Time | Topic | Type |
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
 9.30 | Seminar 12: Quick introduction to XPath and XSLT | Digital lab |
-11.30 | Seminar 13: Open discussion: publishing editions | Discussion |
+11.30 | Seminar 13: Open discussion: publishing editions; course review | Discussion |

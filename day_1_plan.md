@@ -57,9 +57,9 @@ Time  | Topic                                                                   
 </ul>
 
 
-<ul>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies.</ul>
+<ul><li>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies.</li></ul>
 
-<ul>Philology: Lachmannian method: identification and evaluation of bibliographic sources with a critical awareness. Later witnesses have more errors.</ul>
+<ul><li>Philology: Lachmannian method: identification and evaluation of bibliographic sources with a critical awareness. Later witnesses have more errors.</li></ul>
 </details>
 
 <details>

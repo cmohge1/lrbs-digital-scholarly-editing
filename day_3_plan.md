@@ -32,6 +32,7 @@ Time | Topic | Type |
 1. W. W. Greg, "The Rationale of Copy Text"
 2. Fredson Bowers, "Some Principles..."
 3. Tanselle.
+4. Parker, *Flawed Texts and Verbal Icons*.
 
 #### Lecture Notes
 
@@ -54,18 +55,20 @@ It's important to note that Greg's ideas came out of the context of Renaissance 
 
 Example 1: Shakespeare: *King Lear* and *Othello*. See Greg, from *Editorial Problems in Shakespeare* and [Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
-Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) and Empson on Bentley's editiing of Milton.
+Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) and Empson on Bentley's editing of Milton.
 
-Example 3: Dickens's *David Copperfield*. [See Gaskell](../readings/Gaskell_on_Dickens.pdf).
+Example 3: Dickens's *David Copperfield*. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
 
 Example 4: [Mark Twain's *Adventures of Huckleberry Finn*](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
-### Seminar 8:
-
-#### Editing a clear text: stories and poems
+### Seminar 8: Editing a clear text: stories and poems
 
 #### Principles of Annotation
+
+See [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
+
+Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
 
 #### Writing and encoding annotation

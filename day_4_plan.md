@@ -5,6 +5,8 @@ permalink: /day4/
 ---
 ## Synopsis
 
+Today we will survey two digital approaches for collating texts.
+
 ### Day 4 (Thursday, 5 July)
 
 Time | Topic | Type |
@@ -14,11 +16,82 @@ Time | Topic | Type |
 14.00 | Seminar 11: Customising the TEI; problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview | Discussion; Digital lab |
 16.00 | Library Time |             |
 
-## Seminar 11: Computer-Assisted Collation
+### Seminar 9: Genetic criticism, genetic editing, fluid text editing
 
-## Summary
+### Readings
 
-This session will survey two digital approaches for collating texts.
+1. McGann, *Critique of Modern Textual Criticism*.
+2. Bryant, *The Fluid Text*.
+
+Social text/sociology of text.
+
+### Seminar 10: Using TEI to mark-up versions of texts with TextLab
+
+#### General Instructions
+
+1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."
+
+2. Find “Bow in the Cloud” and click "Edit."
+
+3. Find your Image number on the left-hand pane and click on it.
+
+4. Click on "New" on the right-hand side of the editing pane. Enter the name of your file in the following format bic_leaf[number_your initials]
+
+5. Transcribe the text (all of it).
+
+* setting up the leaf's structure: select the "milestone" box, and input the appropriate unit (leaf) number.
+
+* link the leaf image to the transcription by clicking on the "pb" box.
+
+* select the "ab" box (which will surround the text transcription).
+
+* transcribe all of the metamarks first, then focus on transcribing the whole text.
+
+6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.
+
+Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):
+
+~~~~
+<milestone n="24" unit="leaf" />
+<pb facs='#img_24'/>
+<ab>
+  <metamark place="margin(right)" function="folio"
+  rend="no-caret _HMp" change="St1833a"
+  facs="#img_24-0002" >9</metamark>
+<lg type="poem" >
+  <hi rend="italic">The Grave of Wilberforce</hi>
+  <lb/>––––Extinctus amabitur idem.
+  <lb/>Hor.
+  <lb/>
+  ––––––––––––––––––
+  <lb/>
+  <lg type="stanza" >
+    <l n="1" >Tho' least in fame, and last in time,</l>
+    <lb/>
+    <l n="2" >of all, whose tributory rhyme</l>
+    <lb/>
+    <l n="3" >In freedom's cause you crave;</l>
+    <lb/>
+    <l n="4" >Yet, for my subject's sake, excuse</l>
+    <lb/>
+    <l n="5" >The long delay, and lowly muse:</l>
+    <lb/>
+    <l n="6" >'Tis Wilberforce's grave.</l>
+    <lb/>
+  </lg>
+  </lg>
+</ab>
+~~~~
+
+7. When finished with the transcription, click "Submit."
+
+8. After submission, the editor will review the leaf.
+
+9. Once it is accepted and re-shared, one can then input revision narratives.
+
+10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.
+
+### Seminar 11: Computer-Assisted Collation
 
 ## Collation
 
