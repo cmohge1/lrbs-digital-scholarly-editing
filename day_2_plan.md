@@ -65,6 +65,43 @@ Patrick Sahle's model (of text modelling):
 
 What do you think?
 
+Sahle also provided a useful distinction of the 'digitised' versus the 'digital' edition. A work that is 'digitised' tends to mimic the codex––it is a page by page rendering. This form of digitisation is usually a PDF or even a hypertext marked up in html. But it is not interactive. A digital edition can only fully function in the digital realm––that is, if you have to print a digital edition, the edition would lose its functionality. The digital edition is more interactive  
+
+What really distinguishes the two?
+
+*Textons* versus *scriptons*: one of the distinguishing features of digital editing. A *texton* is all of the data that appears in the text file, while a *scripton* is the text as it appears to the user of the edition (see Pierazzo, Digital Scholarly Editing, p. 34). Put another way, it is raw source data versus the output that users see in the interface.
+
+For example: in a recent documentary editing project on incoming letters to Mark Twain as part of an 1884 April Fools joke, each person is tagged with a pointer to a "personography" (a TEI file listing biographical information):
+
+```
+<text type="letter">
+    <body>
+      <pb facs="smith01.jpg" xml:id="pb0001" n="1"/>
+      <head type="metadata">
+        <name corresp="#JHS">J. Hyatt Smith</name> to <addressee>
+          <name corresp="#SLC">Samuel L. Clemens</name>
+        </addressee>
+        <date when="1884-03-28">28 March 1884</date> &#8226; <name type="place">Brooklyn, N.Y.</name>
+        <sourceline>(MS: CU-MARK, UCLC 41833)</sourceline>
+      </head>
+```
+
+The #JHS and #SLC attributes point to @xml:id attributes in a separate personography file:
+
+```
+<person xml:id="JHS">
+<persName type="display">Rev. J. Hyatt Smith</persName>
+<persName type="full"><surname>Smith</surname>, <forename type="first">John</forename> <forename type="middle">Hyatt</forename></persName>
+<birth when="1824">1824</birth>
+<death when="1886">1886</death>
+<sex>male</sex>
+<note><p>Born in Saratoga, N.Y., John Hyatt Smith was educated by his schoolmaster father, then sent to Detroit to work as a clerk. There he was a close friend of Anson Burlingame, who later befriended Clemens in Hawaii. Smith studied for the ministry when he wasn't clerking. After ordination in 1848 he served as a Baptist minister in Poughkeepsie, Cleveland, Buffalo, and Philadelphia before he accepted a position at the Lee Avenue Church in Brooklyn. Smith ran as an independent Republican for a seat in the US House of Representatives and served from 1881 to 1883. In December 1883 he was called by a congregational council presided over by Edward Beecher (brother of Henry Ward Beecher) to fill a temporary pastorship at the East Congregational Church in Brooklyn, where he remained until his death.</p></note>
+</person>
+```
+The biographical information is also rendered as a [network graph](http://scholarlyediting.org/2017/editions/aprilfools/graph/index.html).
+
+Clearly these kinds of data could not be printed out, and even if one attempted to print all of the biographical information and the network connections, one would lose the interactivity between texts and individuals and their various connections.
+
 #### TEI and ODD; TEI for Documentary Editing
 
 ODD files (One Document Does it all) are TEI customisation files that serve as a source for the derivation of
