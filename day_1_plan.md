@@ -55,11 +55,12 @@ Time  | Topic                                                                   
 <li>Copying work transferred from the hands of monks to those of professional scribes, often in universities. The great poet Petrarch's partial reconstruction of Livy's histories was a rigorous editorial project based on manuscript fragments in many medieval repositories. Poggio Bracciolini (1380–1459), acting as papal secretary, found manuscripts all over Europe of prominent classical thinkers. Bracciolini even invented a new humanist script that was far more clear and readable than the prevailing <em>textura</em> (i.e., gothic) script of the day. This is a good moment to reflect on the desire for humanists over time to invent inscription technologies that are consistent, readable, and shareable––a set of values very important to so-called "digital humanities" today.</li>
 <li>Another figure worth noting: Lorenzo Valla (1407–57), the great debunker of forgeries: the <em>Donation of Constantine</em> and the letters of Seneca and St. Paul. He also sought to emend Jerome's <em>Vulgate</em>. His edition, based on Greek and patristic texts, was published by Erasmus in 1505. Similarly, Politian (1454–94) searched for earliest recoverable version of a manuscript––this foreshadowed the genealogical method of plotting a linear path of textual transmission. Politian derived the method of <em>elminatio codicum descriptorum</em>, the removal of "descriptive" or derived copies as witnesses to an authentic version. This led to the method (very much in use to this day) of <em>stemma codicum</em>, the "family tree" of textual versions.</li>
 </ul>
+
+
+<ul>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies.</ul>
+
+<ul>Philology: Lachmannian method: identification and evaluation of bibliographic sources with a critical awareness. Later witnesses have more errors.</ul>
 </details>
-
-<details>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies.</details>
-
-<details><ul>Philology: Lachmannian method: </ul></details>
 
 <details>
   <summary>Housman's thought</summary>
