@@ -27,7 +27,7 @@ Social text/sociology of text.
 
 ### Seminar 10: Using TEI to mark-up versions of texts with TextLab
 
-#### General Instructions
+<details><summary>General Instructions</summary>
 
 1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."
 
@@ -91,9 +91,39 @@ Here is an example of the first stanza of a poem, “The Grave of Wilberforce”
 
 10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.
 
-### Seminar 11: Computer-Assisted Collation
+</details>
 
-## Collation
+### Seminar 11:
+
+#### Customising the TEI; problems with TEI; alternative markup with LMNL
+
+#### Reading
+
+1. [Wendell Piez, "TEI in LMNL: Implications for Modeling"](https://journals.openedition.org/jtei/1337) (*jTEI*, 2014)
+
+<details><summary>Exercise 1</summary>
+
+Return to the poem you marked up on Day 1, Edward Thomas's "The Child on the Cliffs." Either open the original text file, and paste the text into a blank xml file in oXygen, or use your file that was converted from markdown to xml.
+
+Say we would like to mark up all instances of speakers with `<speaker>` tags (for more on this see the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DR.html#DRSP)).
+
+What happens to the XML validation?
+</details>
+
+Customising TEI in your ODD file.
+
+An alternative markup: LMNL.
+LMNL (the Layered Markup and Annotation Language) is a non-hierarchical markup language developed by Wendell Piez.
+
+<details><summary>Exercise 2</summary>
+
+Return to the text file of ["The Child on the Cliffs," by Edward Thomas](../thomas_edward_child_on_the_cliffs.txt) and mark up the speakers (and any other features) in LMNL.
+
+How does that compare to TEI encoding?
+
+</details>
+
+#### Computer-Assisted Collation
 
 The traditional method of collation has been tedious: you literally read versions of texts side-by-side and note the differences in a collation table.
 
@@ -105,7 +135,7 @@ In most cases, machine-collation can detect differences that human eyes often mi
 
 Juxta Commons is a web-based interface for comparing versions of texts and creating editions from those versions.
 
-Instructions
+<details><summary>Instructions</summary>
 
 * Go to [Juxta Commons](http://www.juxtacommons.org/) (http://www.juxtacommons.org/)
 * Create a [free account](http://www.juxtacommons.org/signup)
@@ -119,6 +149,7 @@ Instructions
 A good example of an edition using Juxta: The [Fluid Text edition of Herman Melville's *Moby-Dick*](https://mel.hofstra.edu/expurgating-moby-dick.html).
 
 For a more detailed user guide, go to <http://www.juxtacommons.org/guide?nocontrols#screencast>.
+</details>
 
 ### CollateX
 

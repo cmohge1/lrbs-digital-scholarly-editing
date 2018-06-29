@@ -162,6 +162,6 @@ First we will look at the most basic of transcription: Markdown. This is lightwe
 
 [Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
-How do you get from markdown to xml? Two good options are [Pandoc](https://pandoc.org/) and [OxGarage](http://www.tei-c.org/oxgarage/). I prefer using Pandoc for my transformations (my favourite probably being the markdown > PDF transformation). OxGarage is also good, and it little bit simpler to use: it can convert several types of documents into TEI-XML.
+How do you get from markdown to xml? Two good options are [Pandoc](https://pandoc.org/) and [OxGarage](http://www.tei-c.org/oxgarage/). I prefer using Pandoc for my transformations (my favourite probably being the markdown > PDF transformation). OxGarage is also good, and a little bit simpler to use: it can convert several types of documents into TEI-XML.
 
-The other option is to open a new TEI-XML document in oXygen or your prefered text editor and simply copy-and-paste the body of the html file into the <body> element of the xml file.
+The other option is to open a new TEI-XML document in oXygen or your preferred text editor and simply copy-and-paste the body of the html file into the <body> element of the xml file.

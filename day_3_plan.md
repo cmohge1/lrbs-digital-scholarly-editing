@@ -31,7 +31,7 @@ Time | Topic | Type |
 
 1. W. W. Greg, "The Rationale of Copy Text"
 2. Fredson Bowers, "Some Principles..."
-3. Tanselle.
+3. Tanselle, "Varieties of Scholarly Editing".
 4. Parker, *Flawed Texts and Verbal Icons*.
 
 #### Lecture Notes
