@@ -118,7 +118,7 @@ There are three good ways to create schema for your project:
 2. Schematron.
 3. ODD.
 
-<schemaSpec>, <moduleRef>, <elementSpec>, <classSpec> and others) combine formal XML declarations for inclusion in a DTD or Schema with detailed documentation and examples, for inclusion in a technical manual about the encoding scheme being specified. For this reason, a document using these elements is informally known as an ODD
+The TEI has elements such as `<schemaSpec>`, `<moduleRef>`, `<elementSpec>`, `<classSpec>` and others) combine formal XML declarations for inclusion in a DTD or Schema with detailed documentation and examples, for inclusion in a technical manual about the encoding scheme being specified. For this reason, a document using these elements is informally known as an ODD
 
 ODD files (One Document Does it all) are TEI customisation files that serve as a source for the derivation of
 
