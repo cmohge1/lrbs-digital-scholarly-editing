@@ -49,39 +49,7 @@ Social text/sociology of text.
 
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
-<p>Here is an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24):<p>
-
-<code>
-`<milestone n="24" unit="leaf" />
-<pb facs='#img_24'/>
-<ab>
-  <metamark place="margin(right)" function="folio"
-  rend="no-caret \_HMp" change="St1833a"
-  facs="#img_24-0002" >9</metamark>
-<lg type="poem" >
-  <hi rend="italic">The Grave of Wilberforce</hi>
-  <lb/>––––Extinctus amabitur idem.
-  <lb/>Hor.
-  <lb/>
-  ––––––––––––––––––
-  <lb/>
-  <lg type="stanza" >
-    <l n="1" >Tho' least in fame, and last in time,</l>
-    <lb/>
-    <l n="2" >of all, whose tributory rhyme</l>
-    <lb/>
-    <l n="3" >In freedom's cause you crave;</l>
-    <lb/>
-    <l n="4" >Yet, for my subject's sake, excuse</l>
-    <lb/>
-    <l n="5" >The long delay, and lowly muse:</l>
-    <lb/>
-    <l n="6" >'Tis Wilberforce's grave.</l>
-    <lb/>
-  </lg>
-  </lg>
-</ab>`
-</code>
+<p>[Click here](grave-of-wilberforce.xml) for an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24).</p>
 
 <p>7. When finished with the transcription, click "Submit."</p>
 
@@ -90,7 +58,6 @@ Social text/sociology of text.
 <p>9. Once it is accepted and re-shared, one can then input revision narratives.</p>
 
 <p>10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.</p>
-
 </details>
 
 ### Seminar 11:
