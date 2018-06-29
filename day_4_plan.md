@@ -109,11 +109,14 @@ Say we would like to mark up all instances of speakers with `<speaker>` tags (fo
 
 What happens to the XML validation?
 </details>
-
+<br />
 Customising TEI in your ODD file.
 
-An alternative markup: LMNL.
-LMNL (the Layered Markup and Annotation Language) is a non-hierarchical markup language developed by Wendell Piez.
+*An alternative markup:* **LMNL**. LMNL (the Layered Markup and Annotation Language) is a non-hierarchical markup language developed by Wendell Piez.
+
+The document consists of text and a sequence of atoms (mostly characters) with ranges (subsequences) applied to the text. Atoms and ranges may be named and annotated just like xml elements. Text ranges may or may not correspond to each other: the text retains tag types but loses the well-formedness rules of xml. This gives you the ability to retain many of the structural features of xml but with overlapping hierarchies. Therefore, Piez designed LMNL so that it could be implemented with XML.
+
+Alternative markups such as LMNL are best used when the the XML or TEI-XML cannot serve the project's purposes. It is also best to only use alternative markup on small- to medium-scale projects (LMNL, for example, does not provide validation rules like XML does).
 
 <details><summary>Exercise 2</summary>
 
