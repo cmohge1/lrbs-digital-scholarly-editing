@@ -104,6 +104,22 @@ Clearly these kinds of data could not be printed out, and even if one attempted 
 
 #### TEI and ODD; TEI for Documentary Editing
 
+Burnard: "How should you go about choosing just the parts of the TEI you need? How should you communicate the particular TEI encoding choices you have made to others so that such integration remains possible?"
+
+Schema: the document's grammar. Say you want a rule: every poem should be a collection of `<l>` tags with `@n` (numbered line attributes), and that each group of `<l>`s should be grouped under an `<lg>` tag specifying that it is a numbered stanza (`@n` again) and a `@type` attribute for indicating the length of the stanza (e.g., couplet, tercet, quatrain, &amp;c.).
+
+Or suppose in a documentary editing project, we are encoding letters, and we want to make sure each `<date>` tag has a `@when` attribute, or that each `<p>` has an `@xml:id` (a good idea), or that each `<persName>` has a `@ref` to point to the `@xml:id` of the person.
+
+A schema will codify all of those rules such that the xml document will not be valid unless each line has an `@n` attribute.
+
+There are three good ways to create schema for your project:
+
+1. Relax ng schema (built into TEI files on oXygen).
+2. Schematron.
+3. ODD.
+
+<schemaSpec>, <moduleRef>, <elementSpec>, <classSpec> and others) combine formal XML declarations for inclusion in a DTD or Schema with detailed documentation and examples, for inclusion in a technical manual about the encoding scheme being specified. For this reason, a document using these elements is informally known as an ODD
+
 ODD files (One Document Does it all) are TEI customisation files that serve as a source for the derivation of
 
 * a formal TEI schema
@@ -111,7 +127,7 @@ ODD files (One Document Does it all) are TEI customisation files that serve as a
 
 The TEI offers a web application called [Roma](http://www.tei-c.org/Roma/) to build ODDs.
 
-The ODD validates the TEI document.
+The ODD validates the TEI document.  
 
 ### Seminar 5 (Senate House Library): Using TEI for documentary editions: letters and journals
 
