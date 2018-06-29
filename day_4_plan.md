@@ -49,7 +49,7 @@ Social text/sociology of text.
 
 <p>6. Draw boxes around each of the revision or metamark sites. As you do so, highlight the transcribed text of the revision, then double-click on the box (near the number) of its corresponding revision site box. Enter the appropriate TEI encoding.</p>
 
-<p><a href="~/day4/grave-of-wilberforce.xml">Click here</a> for an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24).</p>
+<p><a href="/day4/grave-of-wilberforce.xml">Click here</a> for an example of the first stanza of a poem, “The Grave of Wilberforce” (leaf 24).</p>
 
 <p>7. When finished with the transcription, click "Submit."</p>
 
