@@ -1,11 +1,18 @@
 ---
 layout: page
-title: day 4
+title: Day 4
 permalink: /day4/
 ---
 ## Synopsis
 
-Today we will survey two digital approaches for collating texts.
+Today we will go over recent textual scholarship relating to genetic criticism and social text theory. We will also survey two digital approaches for collating texts.
+
+## Aims
+
+- Understand the differences between eclectic and genetic text editing.
+- Understand how "social text" theory changed the landscape of editing.
+- A working knowledge of using TextLab to transcribe manuscripts.
+- Familiarity with electronic collation options.
 
 ### Day 4 (Thursday, 5 July)
 

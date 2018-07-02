@@ -14,7 +14,7 @@ Welcome to the London Rare Books School summer 2018 module on Digital Scholarly 
 
 - Facility with transcribing documents in Markdown, HTML, and XML (using the standards of the Text Encoding Initiative).
 
-- Your very own miniature digital critical edition of a literary document.
+- The ability to make your own digital critical edition of a literary document.
 
 - Awareness of the problems and challenges of digital editions.
 
@@ -26,9 +26,9 @@ Day 2: [Documentary Editing; Introduction to the Text Encoding Initiative (TEI)]
 
 Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
 
-Day 4: [Genetic Criticism and Fluid Text Editing; customising TEI](/day_4_plan.md).
+Day 4: [Genetic Criticism, the Social Text, and Fluid Text Editing; customising TEI](/day_4_plan.md).
 
-Day 5: [Transforming Editorial Data with R, XPath, and XSLT; Open discussion on publishing editions](/day_5_plan.md).
+Day 5: [Transforming Editorial Data with R, XPath, and XSLT; Open discussion and review](/day_5_plan.md).
 
 ## Course Reading list
 
