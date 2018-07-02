@@ -6,7 +6,7 @@ permalink: /day2/
 
 ## Synopsis
 
-Today will feature an introduction to documentary editing, an introduction to the Text Encoding Initiative (TEI), and a demonstration of documentary editing with Senate House Library manuscripts.
+Today will feature an introduction to XML, documentary editing, an introduction to the Text Encoding Initiative (TEI), and a demonstration of documentary editing with Senate House Library manuscripts.
 
 ## Aims
 
@@ -20,7 +20,7 @@ Today will feature an introduction to documentary editing, an introduction to th
 
 Time  | Topic                                                                  | Type
 :---- | :--------------------------------------------------------------------- | :-----------------------
-9.30  | Seminar 3: Documentary Editing; Introduction to the Text Encoding Initiative (TEI)                                        | Presentation, Discussion |
+9.30  | Seminar 3: Brief Introduction to XML; Documentary Editing; Introduction to the Text Encoding Initiative (TEI)                                        | Presentation, Discussion |
 11.30 | Seminar 4: Text modelling; TEI and ODD | Presentation, discussion |
 14.00 | Seminar 5: Building ODD for Documentary Editions: letters and journals | Digital lab              |
 16.00 | Library Time                                                           | Presentation             |
@@ -33,6 +33,10 @@ Time  | Topic                                                                  |
 2. Lou Burnard's [*What is the TEI?*](https://books.openedition.org/oep/426)
 3. James Cummings, ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
 4. Elena Pierazzo, *Digital Scholarly Editing* (Chapter 2).
+
+#### Brief Introduction to XML
+
+[Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
 #### Documentary Editing
 To make a long article short: transcribe as much as possible.
