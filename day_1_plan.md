@@ -157,6 +157,10 @@ First we will look at the most basic of transcription: Markdown. This is lightwe
 
 - Open the file in Atom text editor. Save it as thomas_markdown_exercise.md.
 
+- Make sure your Atom text editor is updated. Click on Help and check to see you if need to update.
+
+- Go to File > Settings > Install and type in the search box "markdown-preview-enhanced".
+
 - Now press `control + shift + m` to show an html preview in Atom.
 
 - Using Markdown syntax, mark up the following ([click here for the Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)):
@@ -166,7 +170,7 @@ First we will look at the most basic of transcription: Markdown. This is lightwe
   - a hyperlink from Edward Thomas's name to a web page (say, Poetry Foundation) with his biography;
   - create a contextual footnote for one of the lines (possibly the "Source"?).
 
-- Once your markdown document is complete, right-click on the preview window, select "Save as HTML." Your document is now available as a web-ready html file. You can navigate to the file yourself and open it in your browser.
+- Once your markdown document is complete, right-click on the preview window, select HTML > HTML (offline). In a green box you will see the html url for your file. You can also right click on the markdown preview and select "Open in Broswer". Your document is now available as a web-ready html file. You can navigate to the file yourself and open it in your browser.
 
 ### Brief Introduction to XML
 
