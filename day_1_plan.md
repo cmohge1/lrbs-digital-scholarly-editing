@@ -57,9 +57,7 @@ Time  | Topic                                                                   
 </ul>
 
 
-<ul><li>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies. Aldine editions. Example of the Erasmus New Testament. As an example:</li></ul>
-
-<img src="/day1/stemmatics.jpg alt="stemmatic">stemmatic</img> (Courtesy <https://chs.harvard.edu/CHS/article/display/4742.1-textual-criticism-as-applied-to-biblical-and-classical-texts>)
+<ul><li>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies. Aldine editions. Example of the Erasmus New Testament. As an example: <img src="/day1/stemmatics.jpg" alt="stemmatic">stemmatic</img> (Courtesy <https://chs.harvard.edu/CHS/article/display/4742.1-textual-criticism-as-applied-to-biblical-and-classical-texts>)</li></ul>
 
 <ul><li>Philology (<em>OED</em>):
 
