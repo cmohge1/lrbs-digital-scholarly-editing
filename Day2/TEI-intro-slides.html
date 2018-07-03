@@ -25,21 +25,23 @@
 
 class: center, middle
 
-# An intro to TEI
+# A breif intro to TEI
 
 ---
 
 ## Anatomy of an XML document
 
 - namespace
-- PCDATA
 - schema (meaning and grammar for valid XML documents)
+- PCDATA (what?)
 
----
+TEI is expressed in XML. All TEI data comply with the World Wide Web Consortium XML Recommendations.
 
 ## What is TEI?
 
 TEI is a like a library of concepts and rules that are applied to the meta-information about text through descriptive and structural markup. "The TEI provides names and definitions for many hundred tags, together with rules about how they may be combined. More exactly, the TEI Guidelines define some five or six hundred different concepts, along with detailed specifications for the XML elements and element classes which may be used to represent them" (Burnard).
+
+The current version of the [TEI Guidelines](http://www.tei-c.org/guidelines/p5/) is called P5. That basically means the fifth version of accepted TEI standards.
 
 ---
 
@@ -53,9 +55,16 @@ TEI is not a schema. Editors should select TEI elements and attributes from the 
 
 ---
 
-Good news: few projects require a complete knowledge of the TEI, and most projects only require about 25 or so element in total.
+Good news: few projects require a complete knowledge of the TEI, and **most projects only require about 25 or so elements** in total.
 
-Every TEI document has at least two parts: a teiHeader (containing metadata–––i.e., data describing the document), and the text (typically represented by a <text> element), in which its structure is represented by elements such as <front>, <body>, and <back>. Within these three structural divisions are further sub-divisions often encoded with <div> tags.
+Every TEI document has at least two parts: a `<teiHeader>` (containing metadata–––i.e., data describing the document), and the text (typically represented by a `<text>` element), in which its structure is represented by elements such as `<front>`, `<body>`, and `<back>`. Within these three structural divisions are further sub-divisions often encoded with `<div>` tags.
+
+The `<teiHeader>` must include a description of the electronic file inside a (`<fileDesc>`). Within the `<fileDesc>` you must include:
+
+* the title statement (`<titleStmt>`), with (`<title>`), author (`<author>`) and others responsible for the electronic text;
+* the publication statement (<publicationStmt>), providing publication details about the electronic text in a structured way or as prose inside a `<p>`;
+* a description of the source (<sourceDesc>), which lists bibliographic details about the electronic text's material source in a structured way or in a prose paragraph (<p>).
+
 
 ---
 ```
