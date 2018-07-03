@@ -152,6 +152,9 @@ Here is a sample TEI template for a letter in our manuscript collection (The Sti
          <div type="letter">
             <opener>
                <!-- do we include the pre-printed letterhead? -->
+               <address><addrLine>[Written sideways in the left margin:] to Mr. <name>William Burton</name>
+               <lb/>77 Queens Buildings
+               <lb/>Collinson Street, London SE1</addrLine></address>
                <date when="1928-09-23">23<hi rend="superscript">rd</hi>. Sept. 1928</date>
                <salute>Dear Sir</salute></opener>
             <p>There is nothing in all this that your children will not be able to learn––if they want to––from books by more practiced hands.</p>
