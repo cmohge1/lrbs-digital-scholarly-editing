@@ -40,23 +40,33 @@ Time  | Topic                                                                  |
 [Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
 #### Documentary Editing
+Lecture Notes
+
 To make a long article short: transcribe as much as possible.
 
 The divide between literary and historical editing. Historical: more about annotation (contextual commentary). Literary: more about textual variants.
 
 Naive view: literary editing produces eclectic texts, historical editors produce "faithful" texts.
 
-Literalness and exactness. Faithfulness?
+Literalness and exactness and critical. Faithfulness?
+
+Modernisation and regularisation.
+
+Jefferson "wd hve retird immedly hd h. nt bn infmd".
+
+Falicity to the document or to the reader?
+
+Diplomatic, semi-diplomatic, and clear text.
 
 Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text.
 
-[Example 1: Mark Twain's notebooks and journals. Access slides here.](/Day2/mark-twain-journals.pdf)
+[Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
 
 [Example 2: Christopher Cranch's 1834 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
 #### Seminar 4
 
-#### Introduction to the Text Encoding Initiative (TEI)
+#### Brief Introduction to the Text Encoding Initiative (TEI)
 
 [Access the TEI intro slides here.](/Day2/TEI-intro-slides.html)
 
