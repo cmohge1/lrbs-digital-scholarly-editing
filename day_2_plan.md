@@ -6,7 +6,7 @@ permalink: /day2/
 
 ## Synopsis
 
-Today will feature an introduction to XML, documentary editing, an introduction to the Text Encoding Initiative (TEI), and a demonstration of documentary editing with Senate House Library manuscripts.
+Today will feature an introduction to XML, documentary editing, and the the Text Encoding Initiative (TEI). There will also be a demonstration of documentary editing with Senate House Library manuscripts.
 
 ## Aims
 
@@ -39,8 +39,7 @@ Time  | Topic                                                                  |
 
 [Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
-#### Documentary Editing
-Lecture Notes
+#### Documentary Editing: Lecture Notes
 
 To make a long article short: transcribe as much as possible.
 
