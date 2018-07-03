@@ -117,6 +117,9 @@ Each `<div>` should have at least a @type attribute, and eventually an `@xml:id`
 
 The `<text>` element contains a single text of any kind (which we might call a "work"). This commonly contains the actual text *and* paratextual material. A text <text> **must** contain a `<body>`.
 
+---
+TEI allows you to encode composite texts, either by grouping structurally related texts in a `<group>` element inside `<text>`, or treating them as a corpus of diverse texts, using `<teiCorpus>` as the outermost element.
+
 A possible sibling of `<body>` can be `<front>`, which is used for: prefaces, an acknowledgement by the author, dedication, abstract, contents: a table of contents (in which case a `<list>` element should divide its structure, and a frontispiece. You can also include a `<back>` element for "backmatter" (appendices, contextual notes, a glossary with `<list>` items, or a bibliography with `<listBibl>` elements, an index, &amp;c).
 
 ---
@@ -143,8 +146,6 @@ A possible sibling of `<body>` can be `<front>`, which is used for: prefaces, an
 </div>
 </back>
 ```
----
-TEI allows you to encode composite texts, either by grouping structurally related texts in a `<group>` element inside `<text>`, or treating them as a corpus of diverse texts, using `<teiCorpus>` as the outermost element.
 ---
 
 To read more about the history of TEI, read James Cummings's ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
