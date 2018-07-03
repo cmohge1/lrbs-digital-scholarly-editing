@@ -100,11 +100,7 @@ Time  | Topic                                                                   
 </ul>
 </details>
 
-## Seminar 2: Digital Editing Workflow; Brief Introduction to XML
-
-### Reading
-
-David Birnbaum, ["An even gentler introduction to XML"](http://dh.obdurodon.org/what-is-xml.xhtml).
+## Seminar 2: Digital Editing Workflow
 
 ### Lecture notes
 
