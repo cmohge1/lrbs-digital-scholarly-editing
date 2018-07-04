@@ -30,20 +30,21 @@ Time | Topic | Type |
 ### Readings
 
 1. [W. W. Greg, "The Rationale of Copy Text"](https://christopherohge.com/greg_rationale_copy-text.pdf)
-2. [Fredson Bowers, "Some Principles..."](https://christopherohge.com/readings/)
-3. [Tanselle, "Varieties of Scholarly Editing".](https://christopherohge.com/tanselle_varieties_of_editing.pdf)
+2. [Fredson Bowers, "Some Principles..."](../readings/bowers_principles.pdf)
+3. [Tanselle, "Varieties of Scholarly Editing".](../readings/tanselle_varieties_of_editing.pdf)
 4. [Richard Bucci on Tanselle and copy-text editing.](https://christopherohge.com/bucci_on_tanselle_editing_without_copy-text.pdf)
 5. Parker, *Flawed Texts and Verbal Icons*.
 
 #### Lecture Notes
 
-What is the copy-text? The Greg-Bowers method.
+<details><summary>What is the copy-text? The Greg-Bowers method.</summary>
 
 Authorial intention. The goal with so-called "copy-text" editing is to reconstruct the text that comes closest to the author's final intentions.
 
 This comes out of two general scenarios:
 
 1. We have an autograph manuscript and a later printing of the work.
+
 2. We do not have a manuscript but we have multiple versions of the printed work.
 
 In either scenario, the editor choses as "copy text" the earliest version, or (in some rare cases) some other version that appears to be closest to the author's final intentions (see Stephen Crane's *Red Badge of Courage* as an example of that rare case). Copy text is the basis of your own edited text. Some editors call it the "base text".
@@ -107,6 +108,7 @@ Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) a
 Example 3: Dickens's *David Copperfield*. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
 
 Example 4: [Mark Twain's *Adventures of Huckleberry Finn*](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
+</details>
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
