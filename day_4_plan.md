@@ -18,12 +18,16 @@ Today we will go over recent textual scholarship relating to genetic criticism a
 
 Time | Topic | Type |
 :----|:------|:-----|
-9.30 | Seminar 9: Genetic criticism, genetic editing, fluid text editing | Presentation, Discussion |
+9.30 | Seminar 9: Writing and encoding annotation; intro to genetic criticism, genetic editing, fluid text editing | Presentation, Discussion |
 11.30 | Seminar 10: Using TEI to mark-up versions of texts with TextLab | Digital lab  |
 14.00 | Seminar 11: Customising the TEI; problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview | Discussion; Digital lab |
 16.00 | Library Time |             |
 
-### Seminar 9: Genetic criticism, genetic editing, fluid text editing
+### Seminar 9:
+
+#### Writing and encoding annotation
+
+#### Genetic criticism, genetic editing, fluid text editing
 
 ### Readings
 

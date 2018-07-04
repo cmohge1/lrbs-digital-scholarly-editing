@@ -29,10 +29,10 @@ Time | Topic | Type |
 
 ### Readings
 
-1. [W. W. Greg, "The Rationale of Copy Text"](../readings/greg_rationale_copy-text.pdf)
-2. [Fredson Bowers, "Some Principles..."](../readings/)
-3. [Tanselle, "Varieties of Scholarly Editing".](../readings/tanselle_varieties_of_editing.pdf)
-4. [Richard Bucci on Tanselle and copy-text editing.](../readings/bucci_on_tanselle_editing_without_copy-text.pdf)
+1. [W. W. Greg, "The Rationale of Copy Text"](https://christopherohge.com/greg_rationale_copy-text.pdf)
+2. [Fredson Bowers, "Some Principles..."](https://christopherohge.com/readings/)
+3. [Tanselle, "Varieties of Scholarly Editing".](https://christopherohge.com/tanselle_varieties_of_editing.pdf)
+4. [Richard Bucci on Tanselle and copy-text editing.](https://christopherohge.com/bucci_on_tanselle_editing_without_copy-text.pdf)
 5. Parker, *Flawed Texts and Verbal Icons*.
 
 #### Lecture Notes
@@ -72,14 +72,14 @@ The tyranny of the copy-text: the failure to use individual judgment on variants
 
 E.g. Marlowe's *Doctor Faustus*. The so-called *B-text* (1616 printing) was used as copy-text in F. S. Boas's edition. He compared this to the *A-text* (1604 printing). Consider the opening line to Faustus's opening soliloquy:
 
->**A-text**: Bid *Oncaymaeon* farewell, *Galen* come...
+>**A-text**: Bid *Oncaymaeon* farewell, *Galen* come... <br />
 **B-text**: Bid *Oeconomy* farewell; and *Galen* come...
 
 The name Oncaymaeon was misprinted from copies of the A-text in 1609 and 1611, and was reflected in the *B-text*. But the meter was disrupted, so the *B-text* also features a semi-colon followed by "and". Boas emended the copy-text to reflect the correct spelling of the name but kept the additons of the semi-colon and the "and" before *Galen*. What would you do?
 
 Let's divert for a moment to consider Herman Melville's *Moby-Dick*. Ahab's soliloquy in Chapter 132, "The Symphony" includes an excellent textual editing puzzle:
 
->First American edition reads, "Is Ahab, Ahab?"
+>First American edition reads, "Is Ahab, Ahab?"<br />
 First English edition reads: "Is it Ahab, Ahab?"
 
 How can you chose?
@@ -110,7 +110,7 @@ Example 4: [Mark Twain's *Adventures of Huckleberry Finn*](http://www.marktwainp
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
-#### The *appartus criticus*
+#### The *apparatus criticus*
 The textual apparatus (app crit, hereafter) is one of the foundational aspects of critical editing. In eclectic text editing, it is required, because your readers need to be to access the variants from all of the surviving witnesses that the editor used to put together the reading text.
 
 Print publication: The difference between putting the app crit at the foot of the page versus in the back of the book. (Examples, from the same editor, of A. E. Houseman and Philip Larkin poems.)
@@ -129,10 +129,8 @@ For digital publication, the app crit is encoded within the text. For more on th
 
 #### Principles of Annotation
 
-[Click here to download the handout on annotation](..readings/on-notes.pdf)
+[Click here to download the handout on annotation](../readings/on-notes.pdf)
 
 Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
 
-William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems*. See also [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
-
-#### Writing and encoding annotation
+William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems*. See also [Empson on annotation](https://christopherohge.com/empson-obscurity-and-annotation.pdf).
