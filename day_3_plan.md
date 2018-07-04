@@ -101,9 +101,11 @@ Yet: "All that can be said is that if the original be selected, then the author'
 
 "My desire is rather to provoke discussion than to lay down the law".
 
+The Bowers method essentially stretches the argument to the context of nineteenth century editing. He indicates very plainly the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is).
+
 Example 1: Shakespeare: [*King Lear*](..readings/greg-on-king-lear.pdf) and [*Othello*](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
-Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) and Empson on Bentley's editing of Milton in *Some Versions of Pastoral*.
+Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in *Some Versions of Pastoral*.
 
 Example 3: Dickens's *David Copperfield*. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
 
@@ -123,9 +125,7 @@ For digital publication, the app crit is encoded within the text. For more on th
 
 [Access a plain text file of Tennyson's poem "Early Spring"](https://christopherohge.com/tennyson_early-spring.txt).
 
-1. Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
-2. Now have a look at Christopher Ricks's edition.
-3. Within the `<text>` of your xml file, create an app crit using Ricks's example.
+Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
 
 ### Seminar 8: Editing a clear text: stories and poems
 
