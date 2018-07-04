@@ -66,6 +66,20 @@ Example 4: [Mark Twain's *Adventures of Huckleberry Finn*](http://www.marktwainp
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
+#### The *appartus criticus*
+(textual apparatus) is one of the foundational aspects of critical editing. In eclectic text editing, it is required, because your readers need to be to access the variants from all of the surviving witnesses that the editor used to put together the reading text.
+
+Print publication: The difference between putting the app crit at the foot of the page versus in the back of the book. (Examples, from the same editor, of A. E. Houseman and Philip Larkin poems.)
+
+For digital publication, the app crit is encoded within the text. For more on this, consult the TEI Guidelines, [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html).  
+
+#### Exercise:
+
+[Access a plain text file of Tennyson's poem "Early Spring"](https://christopherohge.com/tennyson_early-spring.txt).
+
+1. Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
+2. Now have a look at Christopher Ricks's edition.
+
 ### Seminar 8: Editing a clear text: stories and poems
 
 #### Principles of Annotation
