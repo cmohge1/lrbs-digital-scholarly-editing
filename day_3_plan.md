@@ -29,10 +29,11 @@ Time | Topic | Type |
 
 ### Readings
 
-1. W. W. Greg, "The Rationale of Copy Text"
-2. Fredson Bowers, "Some Principles..."
-3. Tanselle, "Varieties of Scholarly Editing".
-4. Parker, *Flawed Texts and Verbal Icons*.
+1. [W. W. Greg, "The Rationale of Copy Text"](../readings/greg_rationale_copy-text.pdf)
+2. [Fredson Bowers, "Some Principles..."](../readings/)
+3. [Tanselle, "Varieties of Scholarly Editing".](../readings/tanselle_varieties_of_editing.pdf)
+4. [Richard Bucci on Tanselle and copy-text editing.](../readings/bucci_on_tanselle_editing_without_copy-text.pdf)
+5. Parker, *Flawed Texts and Verbal Icons*.
 
 #### Lecture Notes
 
@@ -53,9 +54,11 @@ What did Greg actually argue? <!-- insert quotes -->
 
 It's important to stress that Greg's ideas came out of the context of Renaissance literature, which presents a textual situation that is unique from, and requires different treatment than, more recent literature (i.e., from the nineteenth and twentieth century).
 
-Example 1: Shakespeare: *King Lear* and *Othello*. See Greg, from *Editorial Problems in Shakespeare* and [Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
+See Donald Reiman's essay in Greetham.
 
-Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) and Empson on Bentley's editing of Milton.
+Example 1: Shakespeare: [*King Lear*](..readings/greg-on-king-lear.pdf) and [*Othello*](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
+
+Example 2: Milton. See [Gaskell on *Comus*](../readings/Gaskell_on_Milton.pdf) and Empson on Bentley's editing of Milton in *Some Versions of Pastoral*.
 
 Example 3: Dickens's *David Copperfield*. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
 
@@ -67,8 +70,10 @@ Example 4: [Mark Twain's *Adventures of Huckleberry Finn*](http://www.marktwainp
 
 #### Principles of Annotation
 
-See [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
+[Click here to download the handout on annotation](..readings/on-notes.pdf)
 
 Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
+
+William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems*. See also [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
 
 #### Writing and encoding annotation
