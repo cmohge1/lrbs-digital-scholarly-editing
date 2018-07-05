@@ -282,3 +282,7 @@ Some distinctions:
 
 <p>10. To create a revision narrative, double-click on the boxed revision site, and click "New sequence." The top level will show the zone number of the box and the bottom will allow to compose a revision narrative.</p>
 </details>
+
+[Click here to download a PDF of the entire Hayford-Sealts transcription](../readings/hayford-sealts-billy-budd-transcription.pdf).
+
+The ongoing digital edition can be found at the [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
