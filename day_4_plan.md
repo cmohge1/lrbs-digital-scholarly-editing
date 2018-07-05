@@ -230,13 +230,6 @@ The ODD approach allows you to communicate exactly what encoding decisions you m
 
 The TEI also offers a web application called [Roma](http://www.tei-c.org/Roma/) to build ODDs.
 
-TEI/ODD Exercise:
-
-* open the ODD Customization file.
-* identify which modules you will need for encoding the Tennyson poem.
-* create rules for attribute values that can be used.
-* invent two new elements.
-
 For more information on writing ODDs, consult Syd Bauman and Julia Flanders's [documentation](http://www.wwp.neu.edu/outreach/seminars/uvic_advanced_2016/presentations/basic_odd/basic_odd_simple_00.xhtml).
 
 ### Seminar 10:
@@ -247,7 +240,11 @@ For more information on writing ODDs, consult Syd Bauman and Julia Flanders's [d
 1. McGann, *Critique of Modern Textual Criticism*.
 2. Bryant, *The Fluid Text*.
 
-Social text/sociology of text.
+Some distinctions:
+
+1. New Bibliography (Greg, Bowers, Gaskell––wait? Gaskell?).
+2. Sociology of Text (McKenzie, McGann).
+3. Genetic editing (Gabler, Sealts–Hayford, Bryant et al).
 
 ###Seminar 11:
 
