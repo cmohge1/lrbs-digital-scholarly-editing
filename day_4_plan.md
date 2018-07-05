@@ -246,7 +246,7 @@ Some distinctions:
 2. Sociology of Text (McKenzie, McGann).
 3. Genetic editing (Gabler, Sealts–Hayford, Bryant et al).
 
-###Seminar 11:
+### Seminar 11:
 
 #### Using TEI to mark-up versions of texts with TextLab
 
@@ -254,7 +254,7 @@ Some distinctions:
 
 <p>1. Go to <https://app.textlab.org/users/sign_in> and click "Sign Up." Enter your details and make sure to select "University of London" under "Institutional Sponsor."</p>
 
-<p>2. Find “Bow in the Cloud” and click "Edit."</p>
+<p>2. Do you want to edit <em>Billy Budd</em> or the <em>Bow in the Cloud</em>? Find "Billy Budd (SAS, UoL)" or "Bow in the Cloud" and click "Edit."</p>
 
 <p>3. Find your Image number on the left-hand pane and click on it.</p>
 
