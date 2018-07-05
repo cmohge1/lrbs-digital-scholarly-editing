@@ -28,11 +28,40 @@ Time | Topic | Type |
 
 #### Writing and encoding annotation
 
+Remember that the essence of the app crit in TEI is the `<app>` element, which contains at least `<rdg>` elements with `@wit` attributes. If you would like to replicate Ricks's app crit, you'll want to also nest a `<lem>` element (a lemma) so that you can represent the preferred reading (the lemma) which points to its variants. More information about app crit in TEI can be found in [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) of the *TEI Guidelines*.
+
+Thankfully annotation is a bit simpler: for many projects a `<note>` TEI element will suffice (for more, consult the [Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html)).
+
+The way you encode your annotations will depend on how you want the notes to be structured, and where you will want the notes to appear in your interface. Many projects will create a linking system for note-writing. As a simple example from the Cranch Journal project (which we examined on Day 2), the note system is constructed this way:
+
+```
+I must "see into the life of <lb/>things."<ptr target="#note9" xml:id="nr9"/>
+```
+Within the text I have created a `<ptr>` element with a `@target` attribute that points to the `<back>` element near the end of the file:
+
+```
+<back>
+         <div type="notes">
+         ... <!--skipping ahead to note 9-->
+
+         <note xml:id="note9">"see into the life of things"] From Wordsworth's "Lines Written a
+               Few Miles Above Tintern Abbey" ... </note>
+```
+
+The `<ptr>` element uses a # mark to indicate that we are going to move to another place in the file: in this case, it is to find the `@xml:id="note9"` which is properly encoded as a note in the back matter of the edition file. This essentially structures a system of footnotes (or endnotes) that link you away from the reading text.
+
+OK, but why did the `<ptr>` element include its own `@xml:id`?
+
+Another way to do this is evidenced by a Mark Twain edition file:
+
+#### Exercise
+
 1. Return to your TEI-encoded text of Tennyson's "Early Spring."
 2. Now have a look at [Christopher Ricks's edition](../readings/tennyson_early-spring-Ricks-edition.pdf) of Tennyson and take a moment to study the app crit of "Early Spring".
 3. Within the `<text>` of your xml file, create an app crit using Ricks's example.
-
-Remember that the essence of the app crit in TEI is the `<app>` element, which contains at least `<rdg>` elements with `@wit` attributes. If you would like to replicate Ricks's app crit, you'll want to also nest a `<lem>` element (a lemma) so that you can represent the preferred reading (the lemma) which points to its variants. More information about app crit in TEI can be found in [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) of the *TEI Guidelines*.
+4. Create a personography within your file. Create entries (and `@xml:id`s) for Tennyson and Ricks (does not have to be complete).
+5. Create a note to reproduce Ricks's textual headnote (hint: treat like you would an explanatory note: create a `<back>` element).
+6. Create a short explanatory note about some aspect of the poem.
 
 If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../readings/early-spring-ms.pdf).
 
