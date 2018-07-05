@@ -70,7 +70,7 @@ In most cases, machine-collation can detect differences that human eyes often mi
 
 Juxta Commons is a web-based interface for comparing versions of texts and creating editions from those versions.
 
-<details><summary>Instructions</summary>
+Instructions
 
 * Go to [Juxta Commons](http://www.juxtacommons.org/) (http://www.juxtacommons.org/)
 * Create a [free account](http://www.juxtacommons.org/signup)
@@ -97,4 +97,4 @@ Download Python 3, preferably the Anaconda distribution
 
 If these instructions do not make sense, consult [David Birnbaum's site](http://collatex.obdurodon.org/installation.xhtml).
 
-A good example of a Collatex collation: the Samuel Beckett manuscript project.
+A good example of a Collatex collation: the [Samuel Beckett manuscript project](www.beckettarchive.org/).
