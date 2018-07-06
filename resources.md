@@ -14,23 +14,25 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 
 * of letters encoding:
 
-  * [Digital Mary Russell Mitford](http://digitalmitford.org/letters.html)
+  * [Digital Mary Russell Mitford](http://digitalmitford.org/letters.html).
 
-  * [Van Gogh](http://vangoghletters.org/vg/)
+  * [Van Gogh](http://vangoghletters.org/vg/).
 
-  * Mark Twain correspondence: [Mark Twain Project edition of Mark Twain's letters](http://www.marktwainproject.org/xtf/search?category=letters;rmode=landing_letters;style=mtp) and [the incoming letters to Mark Twain as part of an 1884 April Fools joke](http://scholarlyediting.org/2017/editions/aprilfools/intro.html)
+  * Mark Twain correspondence: [Mark Twain Project edition of Mark Twain's letters](http://www.marktwainproject.org/xtf/search?category=letters;rmode=landing_letters;style=mtp) and [the incoming letters to Mark Twain as part of an 1884 April Fools joke](http://scholarlyediting.org/2017/editions/aprilfools/intro.html).
 
 * of journals:
 
-  * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+  * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html).
 
 * quirky manuscripts:
 
   * [Making and Knowing Project](http://www.makingandknowing.org/).
 
+  * [Jane Austin Fiction Manuscripts](https://janeausten.ac.uk/index.html).
+
 * of drama:
 
-  * [Folger Shakespeare Library Digital Texts](http://www.folgerdigitaltexts.org/)
+  * [Folger Shakespeare Library Digital Texts](http://www.folgerdigitaltexts.org/).
   * [Shakespeare Quarto Archive](http://www.quartos.org/info/encoding.html).
 
 * of poetry:
