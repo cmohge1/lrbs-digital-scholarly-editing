@@ -13,16 +13,21 @@ permalink: /resources/
 If you are interested in documentary editing, make sure to check [*Scholarly Editing*](https://scholarlyediting.org), the Annual for the Association for Documentary Editing (ADE).
 
 * of letters encoding:
+
   * [Mary Russell Mitford](http://digitalmitford.org/letters.html)
+
   * [Van Gogh](http://vangoghletters.org/vg/)
 
 * of journals:
+
   * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
 * of a versioning edition:
+
   * [Mary Shelley's *Frankenstein*](http://shelleygodwinarchive.org/contents/frankenstein/)
 
 * of a genetic text edition:
+
   * [Samuel Beckett manuscripts](http://www.beckettarchive.org)
 
 * eclectic text: [Mark Twain Project](http://www.marktwainproject.org/)
@@ -35,7 +40,8 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 
 #### Scholarly Societies
 
-* [Association for Documentary Editing (ADE)](https://www.documentaryediting.org/wordpress/)
+* [Association for Documentary Editing (ADE)](https://www.documentaryediting.org/wordpress/).
+
 * [Society for Textual Scholarship (STS in the USA and ESTS in Europe)](https://textualsociety.org/).
 
 #### ListServs
