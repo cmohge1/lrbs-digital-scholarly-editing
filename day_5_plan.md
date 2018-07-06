@@ -98,3 +98,5 @@ Download Python 3, preferably the Anaconda distribution
 If these instructions do not make sense, consult [David Birnbaum's site](http://collatex.obdurodon.org/installation.xhtml).
 
 A good example of a Collatex collation: the [Samuel Beckett manuscript project](www.beckettarchive.org/).
+
+#### BONUS material: XPath and XSLT

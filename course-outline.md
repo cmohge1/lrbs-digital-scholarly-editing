@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Course outline
-permalink: /course-outline/
+permalink: /course-outline.html
 ---
 
 To access the folders of course materials online, go to [https://github.com/cmohge1/lrbs-scholarly-editing](https://github.com/cmohge1/lrbs-scholarly-editing).
@@ -18,7 +18,7 @@ Day 3: [Eclectic editing; TEI continued](/day_3_plan.md).
 
 Day 4: [Genetic Criticism, Sociology of Text, and Fluid Text Editing; customising TEI](/day_4_plan.md).
 
-Day 5: [Alternative markup; Open discussion on publishing editions](/day_5_plan.md).
+Day 5: [Alternative markup; Computer-assisted collation; Open discussion on publishing editions](/day_5_plan.md).
 
 ## Detailed Schedule (Subject to Change)
 
