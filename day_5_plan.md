@@ -60,6 +60,8 @@ How does that compare to TEI encoding?
 
 #### Computer-Assisted Collation
 
+<details><summary>Click to expand</summary>
+
 The traditional method of collation has been tedious: you literally read versions of texts side-by-side and note the differences in a collation table.
 
 The Hinman collater.
@@ -88,9 +90,8 @@ If you already have some versions of a text prepared, feel free to use those.
 A good example of an edition using Juxta: The [Fluid Text edition of Herman Melville's *Moby-Dick*](https://mel.hofstra.edu/expurgating-moby-dick.html).
 
 For a more detailed user guide, go to <http://www.juxtacommons.org/guide?nocontrols#screencast>.
-</details>
 
-### CollateX
+#### CollateX
 
 Download Python 3, preferably the Anaconda distribution
 
@@ -102,3 +103,5 @@ Download Python 3, preferably the Anaconda distribution
 If these instructions do not make sense, consult [David Birnbaum's site](http://collatex.obdurodon.org/installation.xhtml).
 
 A good example of a Collatex collation: the [Samuel Beckett manuscript project](www.beckettarchive.org/).
+
+</details>
