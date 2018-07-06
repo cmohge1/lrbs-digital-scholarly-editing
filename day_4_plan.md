@@ -13,7 +13,7 @@ Today we will finish the exercise on encoding textual apparatus and annotation. 
 - Knowledge of schemas, ODDs, and why we use them.
 - Understand the differences between eclectic and genetic text editing.
 - Understand how "social text" theory changed the landscape of editing.
-- A working knowledge of using TextLab to transcribe manuscripts.
+- A working knowledge of using TextLab to transcribe manuscript images.
 
 ### Day 4 (Thursday, 5 July)
 

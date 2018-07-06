@@ -12,6 +12,8 @@ Today will introduce two technologies for transforming xml documents: XPath and 
 
 - Familiarity with alternative markup options.
 
+- Ability to perform electronic collation.
+
 - A facility with searching xml nodes with XPath.
 
 - A basic understanding of how to transform xml documents.
@@ -100,3 +102,5 @@ If these instructions do not make sense, consult [David Birnbaum's site](http://
 A good example of a Collatex collation: the [Samuel Beckett manuscript project](www.beckettarchive.org/).
 
 #### BONUS material: XPath and XSLT
+
+(TBD)

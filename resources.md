@@ -14,13 +14,32 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 
 * of letters encoding:
 
-  * [Mary Russell Mitford](http://digitalmitford.org/letters.html)
+  * [Digital Mary Russell Mitford](http://digitalmitford.org/letters.html)
 
   * [Van Gogh](http://vangoghletters.org/vg/)
+
+  * Mark Twain correspondence: [Mark Twain Project edition of Mark Twain's letters](http://www.marktwainproject.org/xtf/search?category=letters;rmode=landing_letters;style=mtp) and [the incoming letters to Mark Twain as part of an 1884 April Fools joke](http://scholarlyediting.org/2017/editions/aprilfools/intro.html)
 
 * of journals:
 
   * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+
+* quirky manuscripts:
+
+  * [Making and Knowing Project](http://www.makingandknowing.org/).
+
+* of drama:
+
+  * [Folger Shakespeare Library Digital Texts](http://www.folgerdigitaltexts.org/)
+  * [Shakespeare Quarto Archive](http://www.quartos.org/info/encoding.html).
+
+* of poetry:
+
+  * [Dante Gabriel Rossetti poems](http://www.rossettiarchive.org/racs/poems.rac.html)
+
+* Early Modern print:
+
+  * [Early English Books Online text Creation Partnership (EEBO-TCP)](https://www.manuscriptsonline.org/resources/tc/)
 
 * of a versioning edition:
 
@@ -28,15 +47,27 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 
 * of a genetic text edition:
 
-  * [Samuel Beckett manuscripts](http://www.beckettarchive.org)
+  * [Samuel Beckett Archive](http://www.beckettarchive.org)
 
-* eclectic text: [Mark Twain Project](http://www.marktwainproject.org/)
+* of an eclectic text:
 
-* Archive as Edition model:
+  * [Mark Twain Project's Writings section](http://www.marktwainproject.org/landing_writings.shtml)
+
+* archive as edition model:
 
   * [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
 
   * [Walt Whitman Archive](https://whitmanarchive.org/).
+
+* of marginalia:
+
+  * [Melville's Marginalia Online](http://melvillesmarginalia.org/).
+
+  * [John Stuart Mill Marginalia](http://millmarginalia.org/).
+
+* variorum edition:
+
+  * [Donne Variorum](http://donnevariorum.tamu.edu/).
 
 #### Scholarly Societies
 
