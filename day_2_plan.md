@@ -61,7 +61,7 @@ Yet: one cannot transcribe everything. As soon as transcription happens, an elem
 
 [Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
 
-[Example 2: Christopher Cranch's 1834 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
 #### Seminar 4
 

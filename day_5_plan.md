@@ -75,7 +75,11 @@ Instructions
 * Go to [Juxta Commons](http://www.juxtacommons.org/) (http://www.juxtacommons.org/)
 * Create a [free account](http://www.juxtacommons.org/signup)
 (http://www.juxtacommons.org/signup)
-* Go to the Day4 file repository and download [TBD]. If you already have some versions of a text prepared, feel free to use those.
+* Download the two versions of Mark Twain's "A Scrap of Curious History"
+  * [Manuscript transcription (c. 1894)](../readings/a-scrap-of-curious-history-ms.txt)
+  * [1914 published text](a-scrap-of-curious-history-harpers-1914.txt)
+
+If you already have some versions of a text prepared, feel free to use those.
 * Click on "Add Source" (top-left of the screen) and upload the files you just downloaded.
 * When you have uploaded your sources, under "Sources" click on the right arrow ("Prepare Witness"). The source will then appear in the top-middle pane, "Witnesses."
 * Select the witnesses that you would like to compare by clicking on the box next to its title and then "Create set" (you will then select "Create with Witnesses").
