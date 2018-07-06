@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Day 2
-permalink: /day2/
+permalink: /day2.html
 ---
 
 ## Synopsis
