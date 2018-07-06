@@ -15,18 +15,23 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 * of letters encoding:
   * [Mary Russell Mitford](http://digitalmitford.org/letters.html)
   * [Van Gogh](http://vangoghletters.org/vg/)
+
 * of journals:
   * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+
 * of a versioning edition:
   * [Mary Shelley's *Frankenstein*](http://shelleygodwinarchive.org/contents/frankenstein/)
-  * [Samuel Beckett manuscripts](https://beckettarchive.org/)
+
+* of a genetic text edition:
+  * [Samuel Beckett manuscripts](http://www.beckettarchive.org)
+
 * eclectic text: [Mark Twain Project](http://www.marktwainproject.org/)
 
-Archive as Edition model:
+* Archive as Edition model:
 
-[Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
+  * [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
 
-[Walt Whitman Archive](https://whitmanarchive.org/).
+  * [Walt Whitman Archive](https://whitmanarchive.org/).
 
 #### Scholarly Societies
 
