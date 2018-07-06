@@ -4,9 +4,13 @@ title: Resources
 permalink: /resources/
 ---
 
-Good examples
+(This page will be updated frequently; it is not meant to be exhaustive.)
+
+#### Good project examples
 
 (Please note that any good project will share its XML.)
+
+If you are interested in documentary editing, make sure to check [*Scholarly Editing*](https://scholarlyediting.org), the Annual for the Association for Documentary Editing (ADE).
 
 * of letters encoding:
   * [Mary Russell Mitford](http://digitalmitford.org/letters.html)
@@ -16,14 +20,25 @@ Good examples
 * of a versioning edition:
   * [Mary Shelley's *Frankenstein*](http://shelleygodwinarchive.org/contents/frankenstein/)
   * [Samuel Beckett manuscripts](www.beckettarchive.org/)
-* eclectic text: [Mark Twain] Project(http://www.marktwainproject.org/)
-
-
+* eclectic text: [Mark Twain Project](http://www.marktwainproject.org/)
 
 Archive as Edition model:
 
 [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
 
 [Walt Whitman Archive](https://whitmanarchive.org/).
+
+#### Scholarly Societies
+
+* [Association for Documentary Editing (ADE)](https://www.documentaryediting.org/wordpress/)
+* [Society for Textual Scholarship (STS in the USA and ESTS in Europe)](https://textualsociety.org/).
+
+#### ListServs
+
+* [SEDIT-L](https://listserv.umd.edu/archives/sedit-l.html), a forum for scholarly editing.
+
+* [TEI-L](https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L), to post specialised questions about TEI encoding and to follow really important conversations about text encoding.
+
+* [Humanist listserv](http://dhhumanist.org/), for all kinds of digital humanities discussions and announcements.
 
 #### And then there's me! I'm happy to continue to be a resource. Email me at <christopher.ohge@sas.ac.uk>
