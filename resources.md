@@ -19,7 +19,7 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
   * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 * of a versioning edition:
   * [Mary Shelley's *Frankenstein*](http://shelleygodwinarchive.org/contents/frankenstein/)
-  * [Samuel Beckett manuscripts](www.beckettarchive.org/)
+  * [Samuel Beckett manuscripts](https://beckettarchive.org/)
 * eclectic text: [Mark Twain Project](http://www.marktwainproject.org/)
 
 Archive as Edition model:
