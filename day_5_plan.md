@@ -33,9 +33,7 @@ Time     | Topic                               | Type                    |
 
 1. [Wendell Piez, "TEI in LMNL: Implications for Modeling"](https://journals.openedition.org/jtei/1337) (*jTEI*, 2014)
 
-Exercise 1
-
-Return to the poem you marked up on Day 1, Edward Thomas's "The Child on the Cliffs." Either open the original text file, and paste the text into a blank xml file in oXygen, or use your file that was converted from markdown to xml.
+If you return to the poem you marked up on Day 1, Edward Thomas's "The Child on the Cliffs." Either open the original text file, and paste the text into a blank xml file in oXygen, or use your file that was converted from markdown to xml.
 
 Say we would like to mark up all instances of speakers with `<speaker>` tags (for more on this see the [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DR.html#DRSP)).
 
@@ -49,9 +47,9 @@ The document consists of text and a sequence of atoms (mostly characters) with r
 
 Alternative markups such as LMNL are best used when the the XML or TEI-XML cannot serve the project's purposes. It is also best to only use alternative markup on small- to medium-scale projects (LMNL, for example, does not provide validation rules like XML does).
 
-Exercise 2
+Exercise 1
 
-Return to the text file of ["The Child on the Cliffs," by Edward Thomas](../thomas_edward_child_on_the_cliffs.txt) and mark up the speakers (and any other features) in LMNL.
+Mark up the Thomas poem in LMNL and make sure to encode the speakers (and any other features) you may find interesting.
 
 How does that compare to TEI encoding?
 
@@ -66,6 +64,8 @@ In most cases, machine-collation can detect differences that human eyes often mi
 ### Juxta Commons
 
 Juxta Commons is a web-based interface for comparing versions of texts and creating editions from those versions.
+
+Exercise 2
 
 Instructions
 
