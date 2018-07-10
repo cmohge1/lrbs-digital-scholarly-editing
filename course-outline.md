@@ -42,7 +42,7 @@ Time | Topic | Type |
 :----|:-----|:------|
 9.30 | Seminar 6: Eclectic/clear text editing; Critical Apparatus | Presentation, Discussion |
 11.30  | Seminar 7: Encoding critical apparatus in TEI | Digital lab |
-14.00 (in SHL)  | Seminar 8: Editing a clear text: stories and poems | Discussion; Digital lab |
+14.00 (in SHL)  | Seminar 8: Editing a clear text: stories, essays and poems | Discussion; Digital lab |
 16.00 | Library Time |
 
 ### Day 4 (Thursday, 5 July)
@@ -50,8 +50,8 @@ Time | Topic | Type |
 Time | Topic | Type |
 :----|:------|:-----|
 9.30 | Seminar 9: Thinking about, writing, and encoding textual apparatus and annotation | Presentation, Discussion |
-11.30 | Seminar 10: Intro to genetic criticism, genetic editing, fluid text editing | Digital lab  |
-14.00 | Seminar 11: Using TextLab to mark-up versions of texts in TEI | Digital lab |
+11.30 | Seminar 10: Intro to genetic criticism, social text editing, fluid text editing | Digital lab  |
+14.00 | Seminar 11: Using TextLab to create manuscript-based genetic editions in TEI | Digital lab |
 16.00 | Library Time |             |
 
 ### Day 5 (Friday, 6 July)
