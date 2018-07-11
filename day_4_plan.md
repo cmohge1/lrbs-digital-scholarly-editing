@@ -65,8 +65,6 @@ If you would like to consult the Senate House Library's manuscript of "Early Spr
 
 #### Customising the TEI: TEI and ODD
 
-<details><summary>Some notes</summary>
-
 [Burnard](https://books.openedition.org/oep/692): "How should you go about choosing just the parts of the TEI you need? How should you communicate the particular TEI encoding choices you have made to others so that such integration remains possible?"
 
 Schema: the document's grammar. Say you want a rule: every poem should be a collection of `<l>` tags with `@n` (numbered line attributes), and that each group of `<l>`s should be grouped under an `<lg>` tag specifying that it is a numbered stanza (`@n` again) and a `@type` attribute for indicating the length of the stanza (e.g., couplet, tercet, quatrain, &amp;c.).
@@ -143,7 +141,7 @@ A module element makes available all the declarations allowed within the schema.
 
 So suppose you choose the optional module `<moduleRef key="analysis"/>` but you only want to use certain elements. You would check for the available elements in the module by going to the appropriate chapter in the Guidelines, which happens to be Chapter 17. The end of the chapter includes a helpful module analysis, which indicates:
 
-<strong>Module analysis:</strong> Simple analytic mechanisms** Elements defined: c cl interp interpGrp m pc phr s span spanGrp w
+**Module analysis:** Simple analytic mechanisms** Elements defined: c cl interp interpGrp m pc phr s span spanGrp w
 Classes defined: att.global.analytic att.linguistic
 
 This tells you what elements are available and what class these belong to. But if we only want to use phrase- and word-level elements (`<s>, <phr>, and <w>`) in our document (and none of the interpretive stuff), we could write a <moduleRef> thus:
@@ -231,7 +229,6 @@ The ODD approach allows you to communicate exactly what encoding decisions you m
 The TEI also offers a web application called [Roma](http://www.tei-c.org/Roma/) to build ODDs from the element and attribute specifications covered above.
 
 For more information on writing ODDs, consult Syd Bauman and Julia Flanders's [teaching materials](http://www.wwp.neu.edu/outreach/seminars/uvic_advanced_2016/presentations/basic_odd/basic_odd_simple_00.xhtml).
-</details>
 
 ### Seminar 10:
 #### Genetic criticism, social text editing, fluid text editing
