@@ -65,7 +65,7 @@ The difference between manuscript-based classical scholarship to print-based edi
 </details>
 
 <details>
-<summary><em>Substantives</em> versus <em>accidentals</em></summary>:
+<summary><em>Substantives</em> versus <em>accidentals</em></summary>
 <ul>The editor is advised to select <em>substantive</em> (meaningful words) readings from the first or most authoritative printing and the <em>accidentals</em> (punctuation, spelling, capitalisation) from the manuscript or first printed source.</ul>
 
 <ul>Individual choice in choosing among variants, including "the all-important matter of the choice of copy-text".</ul>
@@ -73,21 +73,20 @@ The difference between manuscript-based classical scholarship to print-based edi
 <ul>The tyranny of the copy-text: the failure to use individual judgment on variants and to understand the substantive and accidental differences.</ul>
 
 <ul>E.g. Marlowe's <em>Doctor Faustus</em>. The so-called <em>B-text</em> (1616 printing) was used as copy-text in F. S. Boas's edition. He compared this to the <em>A-text</em> (1604 printing). Consider the opening line to Faustus's opening soliloquy:<br />
-
->**A-text**: Bid <em>Oncaymaeon</em> farewell, <em>Galen</em> come... <br />
-**B-text**: Bid <em>Oeconomy</em> farewell; and <em>Galen</em> come...
-
 <br />
-
+<em>A-text</em>: Bid <em>Oncaymaeon</em> farewell, <em>Galen</em> come... <br />
+<em>B-text</em>: Bid <em>Oeconomy</em> farewell; and <em>Galen</em> come...
+<br />
+<br />
 The name Oncaymaeon was misprinted from copies of the A-text in 1609 and 1611, and reflected in the <em>B-text</em>. But the meter was disrupted, so the <em>B-text</em> also features a semi-colon followed by "and". Boas emended the copy-text to reflect the correct spelling of the name but kept the additions of the semi-colon and the "and" before <em>Galen</em>. What would you do? Would you keep the semi-colon? (this shows that punctuation changes are not always 'accidentals'!)</ul>
 
 <ul>We now know that it is unwise to privilege A or B. Both texts were posthumously published, and both involved the influence of many hands other than Marlowe. During Boas's and Greg's time, the assumption was simply that the A text was corrupt because it was shorter and had mistakes.</ul>
 
 <ul>Let's divert for a moment to consider Herman Melville's <em>Moby-Dick</em>. Ahab's soliloquy in Chapter 132, "The Symphony" includes an excellent textual editing puzzle: <br />
-
->First American edition reads, "Is Ahab, Ahab?"<br />
+<br />
+First American edition reads, "Is Ahab, Ahab?"<br />
 First English edition reads: "Is it Ahab, Ahab?"
-
+<br />
 <br />
 
 How can you chose?</ul>
@@ -96,7 +95,7 @@ How can you chose?</ul>
 
 <ul>Sometimes the choice of copy-text "is a matter of convenience rather than of principle". Nevertheless, some principles:
 <br />
-
+<br />
 1. whether the original reading can be attributed to the author;
 <br />
 2. whether a later reading is one that the author assented to;
@@ -107,12 +106,14 @@ How can you chose?</ul>
 <br />
 5. If the answers to both (1) and (2) are yes, then the later reading should be adopted.
 <br />
-
+<br />
 Greg's pragmatism: "The fact is that cases of revision differ so greatly in circumstances and character that it seems impossible to lay down any hard and fast rule as to when an editor should take the original edition as his copy-text and when the revised reprint."</ul>
 
 <ul>Yet: "All that can be said is that if the original be selected, then the author's corrections must be incorporated; and that if the reprint be selected, then the original reading must be restored when that of the reprint is due to unauthorized variation."</ul>
 
 <ul>"My desire is rather to provoke discussion than to lay down the law".</ul>
+<details>
+<br />
 
 <details><summary>The Bowers method</summary>
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
@@ -126,6 +127,7 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <br />
 <ul>Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).</ul>
 </details>
+<br />
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
