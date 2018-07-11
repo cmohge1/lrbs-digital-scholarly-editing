@@ -30,7 +30,7 @@ Time | Topic | Type |
 
 Remember that the essence of the app crit in TEI is the `<app>` element, which contains at least `<rdg>` elements with `@wit` attributes. If you would like to replicate Ricks's app crit, you'll want to also nest a `<lem>` element (a lemma) so that you can represent the preferred reading (the lemma) which points to its variants at the foot of the page. More information about app crit in TEI can be found in [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) of the *TEI Guidelines*.
 
-Thankfully annotation is a bit simpler: for many projects a `<note>` TEI element will suffice (for more, consult the [Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html)).
+Thankfully annotation is a bit simpler in TEI: for many projects a `<note>` TEI element will suffice (for more, consult the [Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html)).
 
 The way you encode your annotations will depend on how you want the notes to be structured, and where you will want the notes to appear in your interface. Many projects will create a linking system for note-writing. As a simple example from the Cranch Journal project (which we examined on Day 2), the note system is constructed this way:
 

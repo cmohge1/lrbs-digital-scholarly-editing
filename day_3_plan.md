@@ -37,7 +37,7 @@ Time | Topic | Type |
 
 #### Lecture Notes
 
-<details><summary>What is the copy-text? The Greg-Bowers method.</summary>
+<details><summary>What is the copy-text? The Greg 'copy-text' method.</summary>
 <br />
 <ul>Authorial intention. The goal with so-called "copy-text" editing is to reconstruct the text that comes closest to the author's final intentions.</ul>
 
@@ -65,7 +65,8 @@ The difference between manuscript-based classical scholarship to print-based edi
 </details>
 
 <details>
-<summary><em>Substantives</em> versus <em>accidentals</em></summary>
+<summary><em>Substantives</em> and <em>accidentals</em></summary>
+<br />
 <ul>The editor is advised to select <em>substantive</em> (meaningful words) readings from the first or most authoritative printing and the <em>accidentals</em> (punctuation, spelling, capitalisation) from the manuscript or first printed source.</ul>
 
 <ul>Individual choice in choosing among variants, including "the all-important matter of the choice of copy-text".</ul>
@@ -80,7 +81,7 @@ The difference between manuscript-based classical scholarship to print-based edi
 <br />
 The name Oncaymaeon was misprinted from copies of the A-text in 1609 and 1611, and reflected in the <em>B-text</em>. But the meter was disrupted, so the <em>B-text</em> also features a semi-colon followed by "and". Boas emended the copy-text to reflect the correct spelling of the name but kept the additions of the semi-colon and the "and" before <em>Galen</em>. What would you do? Would you keep the semi-colon? (this shows that punctuation changes are not always 'accidentals'!)</ul>
 
-<ul>We now know that it is unwise to privilege A or B. Both texts were posthumously published, and both involved the influence of many hands other than Marlowe. During Boas's and Greg's time, the assumption was simply that the A text was corrupt because it was shorter and had mistakes.</ul>
+<ul>We now know that it is unwise to privilege A or B. Both texts were published after Marlowe's death, and both involved the influence of many hands other than Marlowe. During Boas's and Greg's time, the assumption was simply that the A text was corrupt because it was shorter and had mistakes. But it now appears that both the A and B texts had corruptions.</ul>
 
 <ul>Let's divert for a moment to consider Herman Melville's <em>Moby-Dick</em>. Ahab's soliloquy in Chapter 132, "The Symphony" includes an excellent textual editing puzzle: <br />
 <br />
@@ -113,9 +114,9 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 
 <ul>"My desire is rather to provoke discussion than to lay down the law".</ul>
 </details>
-<br />
 
-<details><summary>The Bowers method</summary>
+<details><summary>The Bowers method</summary>\
+<br />
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
 <br />
 
@@ -138,12 +139,6 @@ Print publication: The difference between putting the app crit at the foot of th
 
 For digital publication, the app crit is encoded within the text. For more on this, consult the TEI Guidelines, [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html).  
 
-#### Exercise:
-
-[Access a plain text file of Tennyson's poem "Early Spring"](https://christopherohge.com/tennyson_early-spring.txt).
-
-Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
-
 ### Seminar 8: Editing a clear text: stories and poems
 
 #### Principles of Annotation
@@ -153,3 +148,9 @@ Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please)
 Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
 
 William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems*. See also [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
+
+#### Exercise:
+
+[Access a plain text file of Tennyson's poem "Early Spring"](https://christopherohge.com/tennyson_early-spring.txt).
+
+Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
