@@ -63,7 +63,9 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 
 If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../readings/early-spring-ms.pdf).
 
-#### Some notes on customising the TEI: TEI and ODD
+#### Customising the TEI: TEI and ODD
+
+<details><summary>Some notes</summary>
 
 [Burnard](https://books.openedition.org/oep/692): "How should you go about choosing just the parts of the TEI you need? How should you communicate the particular TEI encoding choices you have made to others so that such integration remains possible?"
 
@@ -141,7 +143,7 @@ A module element makes available all the declarations allowed within the schema.
 
 So suppose you choose the optional module `<moduleRef key="analysis"/>` but you only want to use certain elements. You would check for the available elements in the module by going to the appropriate chapter in the Guidelines, which happens to be Chapter 17. The end of the chapter includes a helpful module analysis, which indicates:
 
->**Module analysis: Simple analytic mechanisms** Elements defined: c cl interp interpGrp m pc phr s span spanGrp w
+<strong>Module analysis:</strong> Simple analytic mechanisms** Elements defined: c cl interp interpGrp m pc phr s span spanGrp w
 Classes defined: att.global.analytic att.linguistic
 
 This tells you what elements are available and what class these belong to. But if we only want to use phrase- and word-level elements (`<s>, <phr>, and <w>`) in our document (and none of the interpretive stuff), we could write a <moduleRef> thus:
@@ -229,6 +231,7 @@ The ODD approach allows you to communicate exactly what encoding decisions you m
 The TEI also offers a web application called [Roma](http://www.tei-c.org/Roma/) to build ODDs from the element and attribute specifications covered above.
 
 For more information on writing ODDs, consult Syd Bauman and Julia Flanders's [teaching materials](http://www.wwp.neu.edu/outreach/seminars/uvic_advanced_2016/presentations/basic_odd/basic_odd_simple_00.xhtml).
+</details>
 
 ### Seminar 10:
 #### Genetic criticism, social text editing, fluid text editing
