@@ -39,15 +39,15 @@ Time | Topic | Type |
 
 <details><summary>What is the copy-text? The Greg-Bowers method.</summary>
 
-Authorial intention. The goal with so-called "copy-text" editing is to reconstruct the text that comes closest to the author's final intentions.
+<ul>Authorial intention. The goal with so-called "copy-text" editing is to reconstruct the text that comes closest to the author's final intentions.</ul>
 
-This comes out of two general scenarios:
-
+<ul>This comes out of two general scenarios:
+<br />
 1. We have an autograph manuscript and a later printing of the work.
+<br />
+2. We do not have a manuscript but we have multiple versions of the printed work.</ul>
 
-2. We do not have a manuscript but we have multiple versions of the printed work.
-
-In either scenario, the editor choses as "copy text" the earliest version, or (in some rare cases) some other version that appears to be closest to the author's final intentions (see Stephen Crane's *Red Badge of Courage* as an example of that rare case). Copy text is the basis of your own edited text. Some editors call it the "base text".
+<ul>In either scenario, the editor choses as "copy text" the earliest version, or (in some rare cases) some other version that appears to be closest to the author's final intentions (see Stephen Crane's *Red Badge of Courage* as an example of that rare case). Copy text is the basis of your own edited text. Some editors call it the "base text".</ul>
 
 What did Greg actually argue?
 
