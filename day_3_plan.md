@@ -112,7 +112,7 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <ul>Yet: "All that can be said is that if the original be selected, then the author's corrections must be incorporated; and that if the reprint be selected, then the original reading must be restored when that of the reprint is due to unauthorized variation."</ul>
 
 <ul>"My desire is rather to provoke discussion than to lay down the law".</ul>
-<details>
+</details>
 <br />
 
 <details><summary>The Bowers method</summary>
