@@ -94,7 +94,7 @@ Time  | Topic                                                                   
 
 
 <details>
-  <summary>Editing and history</summary>
+  <summary>Editing and history</summary> <!-- fill in more here -->
   <ul>
   <li><p>An act of historical scholarship which requires an answer to this question: "What role do judgment and evaluation play in reconstructing the past?" (Tanselle, 10).</p></li>
   <li><p>Texts of <strong>documents</strong> v. text of <strong>works</strong>.</p></li>
@@ -128,24 +128,22 @@ The answer to (2) is a little more straightforward. Since we are concerned with 
   <summary>Transcription Options</summary>
   <p>
 
-The beginning of the pipeline is the flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has many virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimize your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web.
+The beginning of the pipeline is the flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has many virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimize your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web.</p>
 
-For us, the common understanding is that XML files should be our edition files of record. Ideally, all documents would be transcribed in XML from the beginning, but for a variety of reasons that is not always practicable.
+<p>For us, the common understanding is that XML files should be our edition files of record. Ideally, all documents would be transcribed in XML from the beginning, but for a variety of reasons that is not always practicable.</p>
 
-First we will look at the most basic of transcription: Markdown. This is lightweight web authoring at its best.
+<p>First we will look at the most basic of transcription: Markdown. This is lightweight web authoring at its best.
 
 </p>
 </details>
 
 <details><summary>Basic components of a digital edition</summary>
-<ul>Source file(s) of transcribed text and metadata encoded in XML. The best encoding practice is to use the Text Encoding Initiative (TEI) standards, but it's not necessary.</ul>
-<ul>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</ul>
-<ul>The edition, as transformed by the former, in html.</ul>
-<ul>Files for styling the edition's html interface (CSS, JavaScript)</ul>
-
-<p></p>
+<ul><p>Source file(s) of transcribed text and metadata encoded in XML. The best encoding practice is to use the Text Encoding Initiative (TEI) standards, but it's not necessary.</ul>
+<ul>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</p></ul>
+<ul><p>The edition, as transformed by the former, in html.</ul>
+<ul>Files for styling the edition's html interface (CSS, JavaScript)</p></ul>
 </details>
-
+<br />
 [Access the Markdown slides here.](https://christopherohge.com/MarkdownLRBS.pdf)
 
 ### Markdown exercise
