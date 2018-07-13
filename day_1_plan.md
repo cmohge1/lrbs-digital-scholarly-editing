@@ -68,9 +68,9 @@ Time  | Topic                                                                   
 
 <ul><li><p>Lachmannian method: identification and evaluation of bibliographic sources with a critical awareness. This comes out of the work of Karl Lachmann (1793–1851), whose 1850 edition of Lucretius claimed that the three extant manuscripts descended from a single archetype. Later witnesses have more errors. Interestingly, Lachmann's <em>Nibelungenlied</em> edition involved more speculation.</p></li></ul>
 
-<ul><li><p>Johann Gottfried Eichhorn (1753–1824) and his monumental claim that there was no possibility to find or reconstruct the original or best text in biblical texts, because of all of the layers of copying and linguistic shifts (<em>Einleitung in das Alte Testament</em>, 1780–83).<p></li></ul>
+<ul><li><p>Johann Gottfried Eichhorn (1753–1824) and his monumental claim that there was no possibility to find or reconstruct the original or best text in biblical texts, because of all of the layers of copying and linguistic shifts (<em>Einleitung in das Alte Testament</em>, 1780–83).</p></li></ul>
 
-<ul><li><p>Friedrich August Wolf (1759–1824) similarly argued in his <em>Prolegomena ad Homerum</em> (1795) that it would be impossible to recover Homeric texts.<p></li></ul>
+<ul><li><p>Friedrich August Wolf (1759–1824) similarly argued in his <em>Prolegomena ad Homerum</em> (1795) that it would be impossible to recover Homeric texts.</p></li></ul>
 </details>
 
 <details>
