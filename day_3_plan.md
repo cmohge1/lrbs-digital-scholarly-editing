@@ -73,7 +73,7 @@ The difference between manuscript-based classical scholarship to print-based edi
 
 <ul>The tyranny of the copy-text: the failure to use individual judgment on variants and to understand the substantive and accidental differences.</ul>
 
-<ul>E.g. Marlowe's <em>Doctor Faustus</em>. The so-called <em>B-text</em> (1616 printing) was used as copy-text in F. S. Boas's edition. He compared this to the <em>A-text</em> (1604 printing). Consider the opening line to Faustus's opening soliloquy:<br />
+<ul>E.g. Marlowe's <em>Doctor Faustus</em>. The so-called <em>B-text</em> (1616 printing) was used as copy-text in F. S. Boas's now-outdated edition of . He compared this to the <em>A-text</em> (1604 printing). Consider the opening line to Faustus's opening soliloquy:<br />
 <br />
 <em>A-text</em>: Bid <em>Oncaymaeon</em> farewell, <em>Galen</em> come... <br />
 <em>B-text</em>: Bid <em>Oeconomy</em> farewell; and <em>Galen</em> come...
@@ -133,11 +133,13 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 ### Seminar 7: Encoding critical apparatus in TEI
 
 #### The *apparatus criticus*
-The textual apparatus (app crit, hereafter) is one of the foundational aspects of critical editing. In eclectic text editing, it is required, because your readers need to be to access the variants from all of the surviving witnesses that the editor used to put together the reading text.
+The textual apparatus (app crit, hereafter) is one of the foundational aspects of critical editing. In eclectic text editing, it is required, because your readers need to access the variants from all of the surviving witnesses that the editor used to constructed the reading text.
 
 Print publication: The difference between putting the app crit at the foot of the page versus in the back of the book. (Examples, from the same editor, of A. E. Houseman and Philip Larkin poems.)
 
-For digital publication, the app crit is encoded within the text. For more on this, consult the TEI Guidelines, [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html).  
+For digital publication, the app crit is encoded within the text. For more on this, consult the TEI Guidelines, [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html).
+
+Parallel segmentation method.  
 
 ### Seminar 8: Editing a clear text: stories and poems
 

@@ -38,7 +38,7 @@ Time  | Topic                                                                   
 ### Lecture notes
 
 <details>
-  <summary>A brief outline [click on the arrow to expand]</summary>
+  <summary>A brief outline of textual scholarship </summary>
   <ul>
   <li>Peisistratus (560–527 BCE) orders the 'official' text of Homer. The primary challenge was to build a coherent text from myriad versions spoken by the rhapsodes. This could be a viable beginning of textual criticism, i.e., being aware of variance and attending to authenticity and authority (whatever those terms mean). (Discuss!)</li>
   <li><p>Lycurgus (c. 390–324 BCE) arranges for single texts of Aeschylus, Sophocles, and Euripedes to be deposited into Athenian archives.</p></li>
@@ -48,7 +48,7 @@ Time  | Topic                                                                   
   <li><p>The birth of collation as an editorial practice; and dealing with analogy versus anomaly: the Alexandrians sought to emend texts that had, in their judgment, corruptions. Their practice is idealistic: the best text is not based on any actual document but rather a new document that seeks to bring out the best readings from all the extant texts.</p></li>
   <li><p>Pergamum, the other civic rival to Alexandria, switched to using parchment (animal skin) after Alexandria banished papyrus exports during a trade conflict. Generally, the Pergamanian scholars accepted the necessity of corruption and sought to identify the "best text" based on a careful examination of all surviving witnesses. The "best text" would be based on an actual historical document, rather than the Alexandrian text, which was a reconstructed text. Texts from neither of these epochs survive, but citations of them exist in medieval scholias.</p></li>
   <li><p>Descriptive Bibliography. Callimachus (c. 305–240 BCE) created the first record of Greek manuscripts, <em>Pinakes</em> (Tablets).</p></li>
-  <li>Late classical era: the birth of textual commentaries (Servius Honoratus on Virgil).</li>
+  <li>Late classical era: the birth of textual commentaries (Servius Honoratus on Virgil, for example). Why is this important? The textual commentaries include quotes of important works and other cultural and historical information that has been otherwise lost. Hugh Cayless offers a good primer on Servius <a href="https://blogs.library.duke.edu/dcthree/2018/01/10/digital-servius/">on his blog</a></li>
   <li><p>Biblical scholarship: problems of vocalisation, accentuation, and word-division in consonantal Hebrew. Masoretic text (Hebrew and Aramaic copies, c. 7th–9th centuries CE) versus Greek Septuagint translation versus the Dead Sea Scrolls. The Old Testament is far less complicated (textually speaking) than the transmission of the Greek New Testament. Jerome's <em>Vulgate</em>, commissioned by Pope Damascus I in the late 4th century CE, was the first Latin Bible that was based on surviving witnesses (~8000 manuscripts!).
 </p></li>
 <li>Medieval period saw a period of conservation, copying mostly religious works and trying to reconcile them, as much as possible, with classical (pagan) works. The Caroline Reformation led to a standardised script that made various European national scripts consistent––a significant portion of surviving manuscripts of classical literature is the result of copies made in monasteries with Carolingian script. Meanwhile, Constantinople's holdings of Greek manuscripts were crucial to Italian humanists' serious return to Greek study in the late fourteenth–early fifteenth century.</li>
@@ -57,7 +57,7 @@ Time  | Topic                                                                   
 </ul>
 
 
-<ul><li>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies. Aldine editions. Example of the Erasmus New Testament. As an example: <img src="https://christopherohge.com/stemmatics.jpg">(Courtesy <https://chs.harvard.edu/CHS/article/display/4742.1-textual-criticism-as-applied-to-biblical-and-classical-texts>)</img></li></ul>
+<ul><li>Stemmatics: building a family tree by examining scribal errors in multiple manuscript copies. Aldine editions. Example of the Erasmus New Testament. As an example: <img src="https://christopherohge.com/stemmatics.jpg">(Courtesy https://chs.harvard.edu/CHS/article/display/4742.1-textual-criticism-as-applied-to-biblical-and-classical-texts)</img></li></ul>
 
 <ul><li>Philology (<em>OED</em>):
 
