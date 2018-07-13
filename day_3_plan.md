@@ -143,11 +143,11 @@ For digital publication, the app crit is encoded within the text. For more on th
 
 #### Principles of Annotation
 
-[Click here to download the handout on annotation](../readings/on-notes.pdf)
+[Click here to download the handout on annotation](/readings/on-notes.pdf)
 
 Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
 
-William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems*. See also [Empson on annotation](../readings/empson-obscurity-and-annotation.pdf).
+William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on annotation](/readings/empson-obscurity-and-annotation.pdf).
 
 #### Exercise:
 
