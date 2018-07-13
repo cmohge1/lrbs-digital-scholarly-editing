@@ -66,7 +66,7 @@ Time  | Topic                                                                   
 
 <p>3. The branch of knowledge that deals with the structure, historical development, and relationships of languages or language families; the historical study of the phonology and morphology of languages; historical linguistics. See also comparative philology at comparative adj. 1b.</p></li></ul>
 
-<ul><li><p>Lachmannian method: identification and evaluation of bibliographic sources with a critical awareness. This comes out of the work of Karl Lachmann (1793–1851), whose 1850 edition of Lucretius claimed that the three extant manuscripts descended from a single archetype. Later witnesses have more errors. Interestingly, Lachmann's <em>Nibelungenlied</em> edition involved more speculation.<p></li></ul>
+<ul><li><p>Lachmannian method: identification and evaluation of bibliographic sources with a critical awareness. This comes out of the work of Karl Lachmann (1793–1851), whose 1850 edition of Lucretius claimed that the three extant manuscripts descended from a single archetype. Later witnesses have more errors. Interestingly, Lachmann's <em>Nibelungenlied</em> edition involved more speculation.</p></li></ul>
 
 <ul><li><p>Johann Gottfried Eichhorn (1753–1824) and his monumental claim that there was no possibility to find or reconstruct the original or best text in biblical texts, because of all of the layers of copying and linguistic shifts (<em>Einleitung in das Alte Testament</em>, 1780–83).<p></li></ul>
 
