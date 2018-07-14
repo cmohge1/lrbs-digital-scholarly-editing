@@ -143,12 +143,11 @@ The beginning of the pipeline is the flexible text editor. By flexible I mean an
 <li>
 <p>Source file(s) of transcribed text and metadata encoded in XML. The best encoding practice is to use the Text Encoding Initiative (TEI) standards, but it's not necessary.</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</p></li></ul>
-<ul><li><p>The edition, as transformed by the former, in html.</ul>
-<ul><li><p>Files for styling the edition's html interface (CSS, JavaScript)</p></li></ul>
+<li><p>The edition, as transformed by the former, in html.</p>
+<p>Files for styling the edition's html interface (CSS, JavaScript)</p></li>
+</ul>
 </details>
 <br />
 
