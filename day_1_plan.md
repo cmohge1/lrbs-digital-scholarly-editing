@@ -4,19 +4,27 @@ title: Day 1
 permalink: /day1.html
 ---
 
-# Synopsis
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Aims](#aims)
+* [Schedule: Day 1 (Monday, 2 July)](#schedule-day-1-monday-2-july)
+	* [Seminar 1: Brief History of Scholarly Editing](#seminar-1-brief-history-of-scholarly-editing)
+	* [Seminar 2: Digital Editing Workflow](#seminar-2-digital-editing-workflow)
+	* [Markdown exercise](#markdown-exercise)
+	* [Brief Introduction to XML](#brief-introduction-to-xml)
+
+<!-- /code_chunk_output -->
 
 Today will feature an introduction to the history of scholarly editing, an overview of digital workflow strategies, and an introduction to Markdown and XML.
 
-# Aims
+## Aims
 
 - General grasp of the history of scholarly editing.
 
 - Facility with transcribing documents in Markdown, HTML, and XML.
 
-# Schedule
-
-## Day 1 (Monday, 2 July)
+## Schedule: Day 1 (Monday, 2 July)
 
 Time  | Topic                                                                         | Type
 :---- | :---------------------------------------------------------------------------- | :-----------------------
@@ -25,9 +33,9 @@ Time  | Topic                                                                   
 14.00 | Seminar 1: Brief history of Scholarly Editing                                 | Presentation, Discussion |
 16.00 | Seminar 2: Digital Editing Workflow, Transcription with Markdown, Brief Introduction to XML | Digital lab              |
 
-## Seminar 1: Brief History of Scholarly Editing
+### Seminar 1: Brief History of Scholarly Editing
 
-### Readings
+#### Readings
 
 1. [Greetham, "A History of Textual Scholarship"](/Day1/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
 
@@ -35,7 +43,7 @@ Time  | Topic                                                                   
 
 3. [G. Thomas Tanselle, "The Varieties of Scholarly Editing" (Greetham, 1995)](../readings/tanselle_varieties_of_editing.pdf).
 
-### Lecture notes
+#### Lecture notes
 
 <details>
   <summary>A brief outline of textual scholarship </summary>
@@ -99,13 +107,13 @@ Time  | Topic                                                                   
 </ul>
 </details>
 
-## Seminar 2: Digital Editing Workflow
+### Seminar 2: Digital Editing Workflow
 
-### Reading
+#### Reading
 
 1. David Birnbaum, ["An even gentler introduction to XML"](http://dh.obdurodon.org/what-is-xml.xhtml).
 
-### Lecture notes
+#### Lecture notes
 
 <details>
   <summary>Digital Editing Workflow</summary>
@@ -180,8 +188,8 @@ How do you get from markdown to xml? Two good options are [Pandoc](https://pando
 
 The other option is to open a new TEI-XML document in oXygen or your preferred text editor and simply copy-and-paste the body of the html file into the <body> element of the xml file.
 
-#### Brief Introduction to XML
+### Brief Introduction to XML
 
 [Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
-#### [Proceed to Day 2](day_2_plan.md)
+#### Proceed to [Day 2](day_2_plan.md)

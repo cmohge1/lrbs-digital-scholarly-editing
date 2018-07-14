@@ -3,7 +3,18 @@ layout: page
 title: Day 4
 permalink: /day4.html
 ---
-## Synopsis
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Aims](#aims)
+* [Schedule: Day 4 (Thursday, 5 July)](#schedule-day-4-thursday-5-july)
+	* [Seminar 9: Writing and encoding annotation](#seminar-9-writing-and-encoding-annotation)
+	* [Customising the TEI: TEI and ODD](#customising-the-tei-tei-and-odd)
+	* [Seminar 10: Genetic criticism, social text editing, fluid text editing](#seminar-10-genetic-criticism-social-text-editing-fluid-text-editing)
+	* [Seminar 11: Using TEI to mark-up versions of texts with TextLab](#seminar-11-using-tei-to-mark-up-versions-of-texts-with-textlab)
+
+<!-- /code_chunk_output -->
 
 Today we will finish the exercise on encoding textual apparatus and annotation. Then we will go over recent textual scholarship relating to genetic criticism and social text theory. We will also survey two digital approaches for collating texts.
 
@@ -15,7 +26,7 @@ Today we will finish the exercise on encoding textual apparatus and annotation. 
 - Understand how text genetics and "social text" theory changed the practices of editing.
 - A working knowledge of using TextLab to transcribe manuscript images.
 
-### Day 4 (Thursday, 5 July)
+## Schedule: Day 4 (Thursday, 5 July)
 
 Time | Topic | Type |
 :----|:------|:-----|
@@ -24,9 +35,7 @@ Time | Topic | Type |
 14.00 | Seminar 11: Using TextLab to create a manuscript-based genetic edition in TEI | Digital lab |
 16.00 | Library Time |             |
 
-### Seminar 9:
-
-#### Writing and encoding annotation
+### Seminar 9: Writing and encoding annotation
 
 Remember that the essence of the app crit in TEI is the `<app>` element, which contains at least `<rdg>` elements with `@wit` attributes. If you would like to replicate Ricks's app crit, you'll want to also nest a `<lem>` element (a lemma) so that you can represent the preferred reading (the lemma) which points to its variants at the foot of the page. More information about app crit in TEI can be found in [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) of the *TEI Guidelines*.
 
@@ -63,7 +72,7 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 
 If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../readings/early-spring-ms.pdf).
 
-#### Customising the TEI: TEI and ODD
+### Customising the TEI: TEI and ODD
 
 [Burnard](https://books.openedition.org/oep/692): "How should you go about choosing just the parts of the TEI you need? How should you communicate the particular TEI encoding choices you have made to others so that such integration remains possible?"
 
@@ -230,10 +239,9 @@ The TEI also offers a web application called [Roma](http://www.tei-c.org/Roma/) 
 
 For more information on writing ODDs, consult Syd Bauman and Julia Flanders's [teaching materials](http://www.wwp.neu.edu/outreach/seminars/uvic_advanced_2016/presentations/basic_odd/basic_odd_simple_00.xhtml).
 
-### Seminar 10:
-#### Genetic criticism, social text editing, fluid text editing
+### Seminar 10: Genetic criticism, social text editing, fluid text editing
 
-### Readings
+#### Readings
 
 1. McGann, *Critique of Modern Textual Criticism*.
 2. Bryant, *The Fluid Text*.
@@ -245,9 +253,7 @@ Some distinctions:
 2. Sociology of Text (McKenzie, McGann).
 3. Genetic editing (Gabler, Hayford-Sealts, Bryant et al).
 
-### Seminar 11:
-
-#### Using TEI to mark-up versions of texts with TextLab
+### Seminar 11: Using TEI to mark-up versions of texts with TextLab
 
 <details><summary>General Instructions</summary>
 
@@ -285,3 +291,5 @@ Some distinctions:
 [Click here to download a PDF of the entire Hayford-Sealts transcription](https://christopherohge.com/hayford-sealts-billy-budd-transcription.pdf).
 
 The ongoing digital edition can be found at the [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
+
+#### Proceed to [Day 5](day_5_plan.md)

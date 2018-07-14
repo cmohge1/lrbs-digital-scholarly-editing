@@ -4,8 +4,6 @@ title: Day 5
 permalink: /day5.html
 ---
 
-## Synopsis
-
 Today will introduce two technologies for transforming xml documents: XPath and XSLT. It will then conclude with a workshop on TextLab, a web-based xml transcription tool that includes TEI, XSLT, and word-and-image correspondence.
 
 ## Aims

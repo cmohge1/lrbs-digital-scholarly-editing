@@ -4,26 +4,16 @@ title: Day 3
 permalink: /day3.html
 ---
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
 <!-- code_chunk_output -->
 
-* [Synopsis](#synopsis)
 * [Aims](#aims)
-* [Schedule](#schedule)
-	* [Day 3 (Wednesday, 4 July)](#day-3-wednesday-4-july)
+* [Schedule: Day 3 (Wednesday, 4 July)](#schedule-day-3-wednesday-4-july)
 	* [Seminar 6: Eclectic/clear text Editing](#seminar-6-eclecticclear-text-editing)
-	* [Readings](#readings)
-		* [Lecture Notes](#lecture-notes)
 	* [Seminar 7: Encoding critical apparatus in TEI](#seminar-7-encoding-critical-apparatus-in-tei)
-		* [The *apparatus criticus*](#the-apparatus-criticus)
 	* [Seminar 8: Editing a clear text: stories and poems](#seminar-8-editing-a-clear-text-stories-and-poems)
-		* [Principles of Annotation](#principles-of-annotation)
-		* [Exercise:](#exercise)
-		* [Proceed to Day 4](#proceed-to-day-4day_4_planmd)
 
 <!-- /code_chunk_output -->
-
-## Synopsis
 
 Today will examine eclectic text editing and learn more about TEI.
 
@@ -33,9 +23,7 @@ Today will examine eclectic text editing and learn more about TEI.
 - The ability to create and encode an *apparatus criticus*.
 - A set of principles for annotating scholarly editions.
 
-## Schedule
-
-### Day 3 (Wednesday, 4 July)
+## Schedule: Day 3 (Wednesday, 4 July)
 
 Time | Topic | Type |
 :----|:-----|:------|
@@ -46,7 +34,7 @@ Time | Topic | Type |
 
 ### Seminar 6: Eclectic/clear text Editing
 
-### Readings
+#### Readings
 
 1. [W. W. Greg, "The Rationale of Copy Text"](https://christopherohge.com/greg_rationale_copy-text.pdf)
 2. [Fredson Bowers, "Some Principles..."](../readings/bowers_principles.pdf)

@@ -4,7 +4,17 @@ title: Day 2
 permalink: /day2.html
 ---
 
-## Synopsis
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Aims](#aims)
+* [Schedule: Day 2 (Tuesday, 3 July)](#schedule-day-2-tuesday-3-july)
+	* [Seminar 3: Documentary Editing](#seminar-3-documentary-editing)
+	* [Seminar 4: Brief Introduction to the Text Encoding Initiative (TEI)](#seminar-4-brief-introduction-to-the-text-encoding-initiative-tei)
+	* [Text Modelling](#text-modelling)
+	* [Seminar 5 (Senate House Library): Using TEI for documentary editions: letters and journals](#seminar-5-senate-house-library-using-tei-for-documentary-editions-letters-and-journals)
+
+<!-- /code_chunk_output -->
 
 Today will feature an introduction documentary editing and the the Text Encoding Initiative (TEI). There will also be a demonstration of documentary editing with Senate House Library manuscripts.
 
@@ -14,9 +24,7 @@ Today will feature an introduction documentary editing and the the Text Encoding
 - General grasp of the Text Encoding Initiative and TEI schemas.
 - Understanding of modelling texts.
 
-## Schedule
-
-### Day 2 (Tuesday, 3 July)
+## Schedule: Day 2 (Tuesday, 3 July)
 
 Time  | Topic                                                                  | Type
 :---- | :--------------------------------------------------------------------- | :-----------------------
@@ -25,7 +33,7 @@ Time  | Topic                                                                  |
 14.00 | Seminar 5: Letters and journals manuscripts (Senate House Library) | Digital lab              |
 16.00 | Library Time                                                           | Presentation             |
 
-#### Seminar 3
+### Seminar 3: Documentary Editing
 
 #### Readings
 
@@ -38,37 +46,35 @@ Time  | Topic                                                                  |
 
 <details><summary>Lecture Notes</summary>
 <ul>
-To make a long article short: transcribe as much as possible.
+<li><p>To make a long article short: transcribe as much as possible.</li></p>
 
-The divide between literary and historical editing. Historical: more about annotation (contextual commentary). Literary: more about textual variants.
+<li><p>The divide between literary and historical editing. Historical: more about annotation (contextual commentary). Literary: more about textual variants.</p></li>
 
-Naive view: literary editing produces eclectic texts, historical editors produce "faithful" texts.
+<li><p>Naive view: literary editing produces eclectic texts, historical editors produce "faithful" texts.</p></li>
 
-Literalness and exactness and critical. Faithfulness?
+<li><p>Literalness and exactness and critical. Faithfulness?</p></li>
 
-Modernisation and regularisation.
+<li><p>Modernisation and regularisation.</p></li>
 
-Jefferson "wd hve retird immedly hd h. nt bn infmd".
+<li><p>Jefferson "wd hve retird immedly hd h. nt bn infmd".</p></li>
 
-Falicity to the document or to the reader?
+<li><p>Falicity to the document or to the reader?</p></li>
 
-Diplomatic, semi-diplomatic, and clear text.
+<li><p>Diplomatic, semi-diplomatic, and clear text.</p></li>
 
-Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text.
+<li><p>Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text.</p></li>
 
-[Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
+<li><p>[Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)</p></li>
 
-[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+<li><p>[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)</p></li>
 </ul>
 </details>
 
-#### Seminar 4
-
-#### Brief Introduction to the Text Encoding Initiative (TEI)
+### Seminar 4: Brief Introduction to the Text Encoding Initiative (TEI)
 
 [Access the TEI intro slides here.](/Day2/TEI-intro-slides.html)
 
-#### Text Modelling
+### Text Modelling
 
 "[E]very electronic representation of text is an interpretation" (Paul Eggert, *Securing the Past*, Cambridge UP, 2009).
 
