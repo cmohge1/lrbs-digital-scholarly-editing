@@ -4,6 +4,17 @@ title: Day 5
 permalink: /day5.html
 ---
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Aims](#aims)
+* [Schedule: Day 5 (Friday, 6 July)](#schedule-day-5-friday-6-july)
+	* [Seminar 12: Problems with TEI; alternative markup with LMNL](#seminar-12-problems-with-tei-alternative-markup-with-lmnl)
+	* [Computer-Assisted Collation](#computer-assisted-collation)
+	* [Juxta Commons](#juxta-commons)
+
+<!-- /code_chunk_output -->
+
 Today will introduce two technologies for transforming xml documents: XPath and XSLT. It will then conclude with a workshop on TextLab, a web-based xml transcription tool that includes TEI, XSLT, and word-and-image correspondence.
 
 ## Aims
@@ -16,18 +27,14 @@ Today will introduce two technologies for transforming xml documents: XPath and 
 
 - A basic understanding of how to transform xml documents.
 
-## Schedule
-
-### Day 5 (Friday, 6 July)
+## Schedule: Day 5 (Friday, 6 July)
 
 Time     | Topic                               | Type                    |
 :--------| :---------------------------------- |:------------------------|
 9.30 | Seminar 12: Problems with TEI; alternative markup with LMNL; Computer-Assisted Collation Overview; Quick introduction to XPath and XSLT | Presentation, Digital lab |
 11.30 | Seminar 13: Open discussion on publishing digital editions; course review | Discussion |
 
-### Seminar 12:
-
-#### Problems with TEI; alternative markup with LMNL
+### Seminar 12: Problems with TEI; alternative markup with LMNL
 
 #### Reading
 
@@ -53,7 +60,7 @@ Mark up the Thomas poem in LMNL and make sure to encode the speakers (and any ot
 
 How does that compare to TEI encoding?
 
-#### Computer-Assisted Collation
+### Computer-Assisted Collation
 
 The traditional method of collation has been tedious: you literally read versions of texts side-by-side and note the differences in a collation table.
 
