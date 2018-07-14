@@ -23,7 +23,7 @@ Time  | Topic                                                                   
 12.30 | Registration                                                                  |
 13.00 | Senate House Library Talk                                                     | Presentation             |
 14.00 | Seminar 1: Brief history of Scholarly Editing                                 | Presentation, Discussion |
-16.00 | Seminar 2: Digital Editing Workflow, Transcription with Markdown | Digital lab              |
+16.00 | Seminar 2: Digital Editing Workflow, Transcription with Markdown, Brief Introduction to XML | Digital lab              |
 
 ## Seminar 1: Brief History of Scholarly Editing
 
@@ -75,8 +75,6 @@ Time  | Topic                                                                   
 
 <details>
   <summary>Housman's thought</summary>
-  <p>
-</p>
   <ul>
   <li><p>Where do science and art meet? "Textual criticism is a science, and, since it comprises recension and emendation, it is also an art."</p></li>
   <li><p>A matter of reason and common sense, but also not "an exact science at all ... fluid and variable ... neither mystery nor mathematics"... It deals with human frailties---errors.</p></li>
@@ -102,6 +100,10 @@ Time  | Topic                                                                   
 </details>
 
 ## Seminar 2: Digital Editing Workflow
+
+### Reading
+
+1. David Birnbaum, ["An even gentler introduction to XML"](http://dh.obdurodon.org/what-is-xml.xhtml).
 
 ### Lecture notes
 
@@ -144,7 +146,7 @@ The beginning of the pipeline is the flexible text editor. By flexible I mean an
 <p>Source file(s) of transcribed text and metadata encoded in XML. The best encoding practice is to use the Text Encoding Initiative (TEI) standards, but it's not necessary.</p>
 </li>
 <li>
-<p>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</p></li></ul>
+<p>Files that parse (i.e., read) and transform the encoded documents for viewing. Typically these will be XSLT or XQuery or (less common) Python files.</p></li>
 <li><p>The edition, as transformed by the former, in html.</p>
 <p>Files for styling the edition's html interface (CSS, JavaScript)</p></li>
 </ul>
@@ -177,3 +179,9 @@ The beginning of the pipeline is the flexible text editor. By flexible I mean an
 How do you get from markdown to xml? Two good options are [Pandoc](https://pandoc.org/) and [OxGarage](http://www.tei-c.org/oxgarage/). I prefer using Pandoc for my transformations (my favourite probably being the markdown > PDF transformation). OxGarage is also good, and a little bit simpler to use: it can convert several types of documents into TEI-XML.
 
 The other option is to open a new TEI-XML document in oXygen or your preferred text editor and simply copy-and-paste the body of the html file into the <body> element of the xml file.
+
+#### Brief Introduction to XML
+
+[Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
+
+#### [Proceed to Day 2](day_2_plan.md)

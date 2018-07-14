@@ -6,7 +6,7 @@ permalink: /day2.html
 
 ## Synopsis
 
-Today will feature an introduction to XML, documentary editing, and the the Text Encoding Initiative (TEI). There will also be a demonstration of documentary editing with Senate House Library manuscripts.
+Today will feature an introduction documentary editing and the the Text Encoding Initiative (TEI). There will also be a demonstration of documentary editing with Senate House Library manuscripts.
 
 ## Aims
 
@@ -20,7 +20,7 @@ Today will feature an introduction to XML, documentary editing, and the the Text
 
 Time  | Topic                                                                  | Type
 :---- | :--------------------------------------------------------------------- | :-----------------------
-9.30  | Seminar 3: Brief Introduction to XML; Documentary Editing (TEI)                                        | Presentation, Discussion |
+9.30  | Seminar 3: Documentary Editing                                        | Presentation, Discussion |
 11.30 | Seminar 4: Introduction to the Text Encoding Initiative; Text modelling | Presentation, discussion |
 14.00 | Seminar 5: Letters and journals manuscripts (Senate House Library) | Digital lab              |
 16.00 | Library Time                                                           | Presentation             |
@@ -29,18 +29,15 @@ Time  | Topic                                                                  |
 
 #### Readings
 
-1. David Birnbaum, ["An even gentler introduction to XML"](http://dh.obdurodon.org/what-is-xml.xhtml).
 1. G. Thomas Tanselle, ["The Editing of Historical Documents."](/readings/tanselle_editing_historical _documents.pdf)
 2. Lou Burnard's [*What is the TEI?*](https://books.openedition.org/oep/426)
 3. James Cummings, ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
 4. Elena Pierazzo, *Digital Scholarly Editing* (Chapter 2).
 
-#### Brief Introduction to XML
+#### Documentary Editing:
 
-[Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
-
-#### Documentary Editing: Lecture Notes
-
+<details><summary>Lecture Notes</summary>
+<ul>
 To make a long article short: transcribe as much as possible.
 
 The divide between literary and historical editing. Historical: more about annotation (contextual commentary). Literary: more about textual variants.
@@ -62,6 +59,8 @@ Yet: one cannot transcribe everything. As soon as transcription happens, an elem
 [Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
 
 [Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
+</ul>
+</details>
 
 #### Seminar 4
 
@@ -124,7 +123,7 @@ Clearly these kinds of data could not be printed out, and even if one attempted 
 
 ### Seminar 5 (Senate House Library): Using TEI for documentary editions: letters and journals
 
-Here is a sample TEI template for a letter in our manuscript collection (The Stirling Collection, Senate House Library):
+Here is a sample TEI template for a George Bernard Shaw letter in our manuscript collection (The Stirling Collection, Senate House Library):
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
