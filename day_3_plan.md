@@ -4,6 +4,25 @@ title: Day 3
 permalink: /day3.html
 ---
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [Synopsis](#synopsis)
+* [Aims](#aims)
+* [Schedule](#schedule)
+	* [Day 3 (Wednesday, 4 July)](#day-3-wednesday-4-july)
+	* [Seminar 6: Eclectic/clear text Editing](#seminar-6-eclecticclear-text-editing)
+	* [Readings](#readings)
+		* [Lecture Notes](#lecture-notes)
+	* [Seminar 7: Encoding critical apparatus in TEI](#seminar-7-encoding-critical-apparatus-in-tei)
+		* [The *apparatus criticus*](#the-apparatus-criticus)
+	* [Seminar 8: Editing a clear text: stories and poems](#seminar-8-editing-a-clear-text-stories-and-poems)
+		* [Principles of Annotation](#principles-of-annotation)
+		* [Exercise:](#exercise)
+		* [Proceed to Day 4](#proceed-to-day-4day_4_planmd)
+
+<!-- /code_chunk_output -->
+
 ## Synopsis
 
 Today will examine eclectic text editing and learn more about TEI.
@@ -156,3 +175,5 @@ William Empson: a great thinker about notes. See Empson's Introduction to the No
 [Access a plain text file of Tennyson's poem "Early Spring"](https://christopherohge.com/tennyson_early-spring.txt).
 
 Encode the poem in TEI (with the required metadata in the `<teiHeader>`, please).
+
+#### [Proceed to Day 4](day_4_plan.md)
