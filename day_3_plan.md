@@ -90,7 +90,9 @@ The name Oncaymaeon was misprinted from copies of the A-text in 1609 and 1611, a
 
 <ul>We now know that it is unwise to privilege A or B. Both texts were published after Marlowe's death, and both involved the influence of many hands other than Marlowe. During Boas's and Greg's time, the assumption was simply that the A text was corrupt because it was shorter and had mistakes. But it now appears that both the A and B texts had corruptions.</ul>
 
-<ul>Let's divert for a moment to consider Herman Melville's <em>Moby-Dick</em>. Ahab's soliloquy in Chapter 132, "The Symphony" includes an excellent textual editing puzzle: <br />
+<ul>But sometimes we have cases of two minor substantive variants in two authorial versions, like Herman Melville's <em>Moby-Dick</em>.</ul>
+
+<ul>Let's divert for a moment to consider Ahab's soliloquy in Chapter 132 ("The Symphony") of <em>Moby-Dick</em>, which includes an excellent textual editing puzzle: <br />
 <br />
 First American edition reads, "Is Ahab, Ahab?"<br />
 First English edition reads: "Is it Ahab, Ahab?"
@@ -126,15 +128,15 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <br />
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
 <br />
-
-<ul>Example 1: Shakespeare: [<em>King Lear</em>](..readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).</ul>
-<br />
-<ul>Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.</ul>
-<br />
-<ul>Example 3: Dickens's <em>David Copperfield</em>. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).</ul>
-<br />
-<ul>Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).</ul>
 </details>
+
+Example 1: Shakespeare: [<em>King Lear</em>](..readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
+
+Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.</ul>
+
+Example 3: Dickens's <em>David Copperfield</em>. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
+
+Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
 <br />
 
 ### Seminar 7: Encoding critical apparatus in TEI
