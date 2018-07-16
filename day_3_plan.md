@@ -129,7 +129,7 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
 <br />
 </details>
-
+<br />
 Example 1: Shakespeare: [<em>King Lear</em>](..readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
 Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.
