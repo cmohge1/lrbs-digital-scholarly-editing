@@ -80,7 +80,7 @@ The difference between manuscript-based classical scholarship to print-based edi
 
 <ul>The tyranny of the copy-text: the failure to use individual judgment on variants and to understand the substantive and accidental differences.</ul>
 
-<ul>E.g. Marlowe's <em>Doctor Faustus</em>. The so-called <em>B-text</em> (1616 printing) was used as copy-text in F. S. Boas's now-outdated edition of . He compared this to the <em>A-text</em> (1604 printing). Consider the opening line to Faustus's opening soliloquy:<br />
+<ul>E.g. Marlowe's <em>Doctor Faustus</em>. The so-called <em>B-text</em> (1616 printing) was used as copy-text in F. S. Boas's now-outdated edition of 1932. He compared this to the <em>A-text</em> (1604 printing). Consider the opening line to Faustus's opening soliloquy:<br />
 <br />
 <em>A-text</em>: Bid <em>Oncaymaeon</em> farewell, <em>Galen</em> come... <br />
 <em>B-text</em>: Bid <em>Oeconomy</em> farewell; and <em>Galen</em> come...
