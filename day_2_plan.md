@@ -67,6 +67,8 @@ Time  | Topic                                                                  |
 </details>
 <br />
 
+#### Examples
+
 [Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
 
 [Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
