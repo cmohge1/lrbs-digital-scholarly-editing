@@ -132,12 +132,11 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 
 Example 1: Shakespeare: [<em>King Lear</em>](..readings/greg-on-king-lear.pdf) and [<em>Othello</em>](../readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare* and [Brian Vickers](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
-Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.</ul>
+Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.
 
 Example 3: Dickens's <em>David Copperfield</em>. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
 
 Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
-<br />
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
