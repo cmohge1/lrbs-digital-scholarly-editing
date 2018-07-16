@@ -63,12 +63,13 @@ Time  | Topic                                                                  |
 <li><p>Diplomatic, semi-diplomatic, and clear text.</p></li>
 
 <li><p>Yet: one cannot transcribe everything. As soon as transcription happens, an element of contingency comes into the text.</p></li>
-
-<li><p>[Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)</p></li>
-
-<li><p>[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)</p></li>
 </ul>
 </details>
+<br />
+
+[Example 1: Mark Twain's notebooks and journals. Access slides here.](https://christopherohge.com/mark-twain-journals.pdf)
+
+[Example 2: Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html)
 
 ### Seminar 4: Brief Introduction to the Text Encoding Initiative (TEI)
 
