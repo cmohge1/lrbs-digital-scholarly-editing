@@ -127,7 +127,6 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 <details><summary>The Bowers method</summary>
 <br />
 <ul>Bowers essentially stretches the argument to the context of nineteenth century editing. He accepts the authority of the manuscript, and that the default assumption of the editor is to privilege the manuscript over the printed source (if there is no evidence the author oversaw the printing, that is). Printing simply introduces too many errors and deviates from the author's wishes.</ul>
-<br />
 </details>
 <br />
 
