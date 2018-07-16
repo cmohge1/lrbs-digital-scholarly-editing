@@ -42,7 +42,7 @@ Time  | Topic                                                                  |
 3. James Cummings, ["The Text Encoding Initiative and the Study of Literature"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-6&toc.depth=1&toc.id=ss1-6-6&brand=9781405148641_brand)
 4. Elena Pierazzo, *Digital Scholarly Editing* (Chapter 2).
 
-#### Documentary Editing:
+#### Documentary Editing
 
 <details><summary>Lecture Notes</summary>
 <ul>
