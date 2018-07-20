@@ -39,7 +39,9 @@ Time     | Topic                               | Type                    |
 
 #### Reading
 
-1. [Wendell Piez, "TEI in LMNL: Implications for Modeling"](https://journals.openedition.org/jtei/1337) (*jTEI*, 2014)
+1. Wendell Piez, ["TEI in LMNL: Implications for Modeling"](https://journals.openedition.org/jtei/1337) (*jTEI*, 2014).
+
+2. Hans Walter Gabler, ["Theorizing the Digital Scholarly Edition"](https://www.openbookpublishers.com/htmlreader/978-1-78374-363-6/ch6.xhtml#_idTextAnchor018).
 
 If you return to the poem you marked up on Day 1, Edward Thomas's "The Child on the Cliffs." Either open the original text file, and paste the text into a blank xml file in oXygen, or use your file that was converted from markdown to xml.
 

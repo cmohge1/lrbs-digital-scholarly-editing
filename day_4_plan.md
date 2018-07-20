@@ -64,13 +64,13 @@ OK, but why did the `<ptr>` element include its own `@xml:id`?
 #### Exercise
 
 1. Return to your TEI-encoded text of Tennyson's "Early Spring."
-2. Now have a look at [Christopher Ricks's edition](../readings/tennyson_early-spring-Ricks-edition.pdf) of Tennyson and take a moment to study the app crit of "Early Spring".
+2. Now have a look at [Christopher Ricks's edition](/readings/tennyson_early-spring-Ricks-edition.pdf) of Tennyson and take a moment to study the app crit of "Early Spring".
 3. Within the `<text>` of your xml file, create an app crit using Ricks's example.
 4. Create a personography within your file. Create entries (and `@xml:id`s) for Tennyson and Ricks (it does not have to be complete).
 5. Create a note to reproduce Ricks's textual headnote (hint: treat it like you would an explanatory note: create a `<back>` element?).
 6. Create a short explanatory note about some aspect of the poem.
 
-If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](../readings/early-spring-ms.pdf).
+If you would like to consult the Senate House Library's manuscript of "Early Spring," you can download it [here](/readings/early-spring-ms.pdf).
 
 ### Customising the TEI: TEI and ODD
 
