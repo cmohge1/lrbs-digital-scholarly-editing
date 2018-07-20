@@ -8,6 +8,8 @@ permalink: /readings/
 
 Bryant, John. _The Fluid Text_. U Michigan P, 2002.
 
+Bowers, Fredson. ["Some Principles..."](../readings/bowers_principles.pdf) (in *Art and Error*).
+
 Bucci, Richard. ["Tanselle's "Editing without a Copy-Text": Genesis, Issues, Prospects"](https://christopherohge.com/bucci_on_tanselle_editing_without_copy-text.pdf).
 
 Burnard, Lou. [_What is the Text Encoding Initiative?_](http://books.openedition.org/oep/426?lang=en) (Open Edition, 2014).
@@ -24,7 +26,7 @@ Greetham, David. _Scholarly Editing: A Guide to Research_ (New York: MLA, 1995)
 
 –––– ["A History of Textual Scholarship"](/Day1/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
 
-W. W. Greg, ["The Rationale of Copy Text"](https://christopherohge.com/greg_rationale_copy-text.pdf).
+W. W. Greg, ["The Rationale of Copy Text"](https://christopherohge.com/greg_rationale_copy-text.pdf) (in *Art and Error*).
 
 Housman, A. E. ["The Application of Thought to Textual Criticism"](../readings/housman_application_of_thought.html) (*Art and Error*).
 
