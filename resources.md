@@ -24,7 +24,7 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 
   * [Christopher Cranch's 1839 travel journal](http://scholarlyediting.org/2014/editions/cranchjournal.html).
 
-* quirky manuscripts:
+* manuscripts:
 
   * [Making and Knowing Project](http://www.makingandknowing.org/).
 
@@ -57,6 +57,8 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
 
 * archive as edition model:
 
+  * [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/).
+
   * [Melville Electronic Library](http://mel-juxta-editions.herokuapp.com/documents/631).
 
   * [Walt Whitman Archive](https://whitmanarchive.org/).
@@ -66,6 +68,8 @@ If you are interested in documentary editing, make sure to check [*Scholarly Edi
   * [Melville's Marginalia Online](http://melvillesmarginalia.org/).
 
   * [John Stuart Mill Marginalia](http://millmarginalia.org/).
+
+  * [Keats Library's edition of Keats's marginalia to *Paradise Lost*](http://keatslibrary.org/paradise-lost/).
 
 * variorum edition:
 
