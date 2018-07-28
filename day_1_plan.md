@@ -39,9 +39,9 @@ Time  | Topic                                                                   
 
 1. [Greetham, "A History of Textual Scholarship"](/Day1/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
 
-2. [A. E. Housman, "The Application of Thought to Textual Criticism"](../readings/housman_application_of_thought.html) (*Art and Error*).
+2. [A. E. Housman, "The Application of Thought to Textual Criticism"](/readings/housman_application_of_thought.html) (*Art and Error*).
 
-3. [G. Thomas Tanselle, "The Varieties of Scholarly Editing" (Greetham, 1995)](../readings/tanselle_varieties_of_editing.pdf).
+3. [G. Thomas Tanselle, "The Varieties of Scholarly Editing" (Greetham, 1995)](/readings/tanselle_varieties_of_editing.pdf).
 
 #### Lecture notes
 
