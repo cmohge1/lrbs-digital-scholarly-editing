@@ -106,7 +106,7 @@ Time  | Topic                                                                   
   <li><p>Texts of <strong>documents</strong> v. text of <strong>works</strong>.</p></li>
 </ul>
 </details>
-
+<br/>
 ### Seminar 2: Digital Editing Workflow
 
 #### Reading
