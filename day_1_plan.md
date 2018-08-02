@@ -147,14 +147,13 @@ Time  | Topic                                                                   
 
 The beginning of the pipeline is the flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has many virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimize your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web. Also data scientists or digital text analysts warn against using Microsoft Excel files for analysis because that program introduces unnecessary code that can hinder output.</p>
 
+<strong>Which text editor?</strong> We will be using the <a href="https://atom.io/">Atom</a> text editor. It features a very attractive Markdown previewer (with additional feature packages), and it is well-integrated with GitHub (upon which this course web site is built). Other good options are the <a href="https://www.sublimetext.com/">Sublime</a> text editor, <a href="https://www.barebones.com/products/bbedit/">BB Edit</a>, and <a href="https://notepad-plus-plus.org/">Notepad ++</a> (for Microsoft).
+
 <p>For us, the common understanding is that XML files should be our edition files of record. Ideally, all documents would be transcribed in XML from the beginning, but for a variety of reasons that is not always practicable.</p>
 
 <p>First we will look at the most basic of transcription: Markdown. This is lightweight web authoring at its best.
 </p>
-
-<p>**Which text editor?** We will be using the [Atom text editor](https://atom.io/). It features a very attractive Markdown previewer (with additional feature packages), and it is well-integrated with GitHub (upon which this course web site is built). Other good options are the [Sublime](https://www.sublimetext.com/) text editor, [BB Edit](https://www.barebones.com/products/bbedit/), and [Notepad ++](https://notepad-plus-plus.org/) (for Microsoft).</p>
 </details>
-
 <br />
 
 ### Markdown exercise
