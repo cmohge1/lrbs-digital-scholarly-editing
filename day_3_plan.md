@@ -136,7 +136,7 @@ Example 2: Milton. See [Gaskell on <em>Comus</em>](../readings/Gaskell_on_Milton
 
 Example 3: Dickens's <em>David Copperfield</em>. [See Gaskell on Dickens](../readings/Gaskell_on_Dickens.pdf).
 
-Example 4: [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
+Example 4: "The Lost Manuscript and the Emergence of Physical Evidence" in the California edition of [Mark Twain's <em>Adventures of Huckleberry Finn</em>](http://www.marktwainproject.org/xtf/view?docId=works/MTDP10000.xml;chunk.id=laf858;toc.depth=1;toc.id=la0854;citations=;style=work;brand=mtp#X).
 
 ### Seminar 7: Encoding critical apparatus in TEI
 
@@ -157,7 +157,7 @@ Parallel segmentation method.
 
 Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
 
-William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on annotation](/readings/empson-obscurity-and-annotation.pdf).
+William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on obscurity and annotation](/readings/empson-obscurity-and-annotation.pdf).
 
 #### Exercise:
 

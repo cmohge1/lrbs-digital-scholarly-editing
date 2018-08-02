@@ -53,7 +53,7 @@ Time  | Topic                                                                   
   <li><p>Lycurgus (c. 390–324 BCE) arranges for single texts of Aeschylus, Sophocles, and Euripedes to be deposited into Athenian archives.</p></li>
   <li><p>The history of textual editing is a history of arguments about the meaning of terms such as authenticity and authority. It is also a record of humans grappling with the contingencies of cultural imagination, tradition, and artifacts.</p></li>
   <li><p>What is the <em>textus receptus</em>? When mistakes in a received (published) edition prevail: E.g., Falstaff "babbl'd o' green fields" (Shakespeare, <em>Henry V</em>); "soiled fish of the sea" (Melville, <em>White-Jacket</em>).</p></li>
-  <li><p>Library of Alexandria: manuscript copying was a common practice, since all incoming ships had to declare any manuscripts in their possession. Any manuscripts declared would then be copied and deposited in libraries. Their copies were only labeled differently if they had differences.</p></li>
+  <li><p>Library of Alexandria: manuscript copying was a common practice, since all incoming ships had to declare any manuscripts in their possession. Any manuscripts declared would then be copied and deposited in libraries. Their copies were only labeled differently if they had differences. Sometimes the copies were returned and the originals kept in Alexandria. What's wrong with this story?</p></li>
   <li><p>The birth of collation as an editorial practice; and dealing with analogy versus anomaly: the Alexandrians sought to emend texts that had, in their judgment, corruptions. Their practice is idealistic: the best text is not based on any actual document but rather a new document that seeks to bring out the best readings from all the extant texts.</p></li>
   <li><p>Pergamum, the other civic rival to Alexandria, switched to using parchment (animal skin) after Alexandria banished papyrus exports during a trade conflict. Generally, the Pergamanian scholars accepted the necessity of corruption and sought to identify the "best text" based on a careful examination of all surviving witnesses. The "best text" would be based on an actual historical document, rather than the Alexandrian text, which was a reconstructed text. Texts from neither of these epochs survive, but citations of them exist in medieval scholias.</p></li>
   <li><p>Descriptive Bibliography. Callimachus (c. 305–240 BCE) created the first record of Greek manuscripts, <em>Pinakes</em> (Tablets).</p></li>
@@ -114,39 +114,6 @@ Time  | Topic                                                                   
 1. David Birnbaum, ["An even gentler introduction to XML"](http://dh.obdurodon.org/what-is-xml.xhtml).
 
 #### Lecture notes
-
-<details>
-  <summary>Digital Editing Workflow</summary>
-  <p>
-
-If I am interested in creating a digital edition, there are two questions that you must ponder at length before proceeding:
-
-1. What is my text model, why am I making it, and what will it be used for?
-
-2. What is my workflow?
-
-The answer to (1) will vary quite a bit, depending on your documents, and what kind of edition you would like to produce. We will continue to investigate options to (1) as we move through the course this week.
-
-The answer to (2) is a little more straightforward. Since we are concerned with "digital" editing, we need to think in terms of an appropriate computational pipeline.
-
-</p>
-</details>
-
-
-
-<details>
-  <summary>Transcription Options</summary>
-  <p>
-
-The beginning of the pipeline is the flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has many virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimize your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web.</p>
-
-<p>For us, the common understanding is that XML files should be our edition files of record. Ideally, all documents would be transcribed in XML from the beginning, but for a variety of reasons that is not always practicable.</p>
-
-<p>First we will look at the most basic of transcription: Markdown. This is lightweight web authoring at its best.
-
-</p>
-</details>
-
 <details>
 <summary>Basic components of a digital edition</summary>
 <ul>
@@ -159,10 +126,40 @@ The beginning of the pipeline is the flexible text editor. By flexible I mean an
 <p>Files for styling the edition's html interface (CSS, JavaScript)</p></li>
 </ul>
 </details>
+<details>
+  <summary>Digital Editing Workflow</summary>
+<p>If I am interested in creating a digital edition, there are two questions that you must ponder at length before proceeding:</p>
+
+<p>1. What is my text model, why am I making it, and what will it be used for?</p>
+
+<p>2. What is my workflow?</p>
+
+<p>The answer to (1) will vary quite a bit, depending on your documents, and what kind of edition you would like to produce. We will continue to investigate options to (1) as we move through the course this week.</p>
+
+<p>The answer to (2) is a little more straightforward. Since we are concerned with "digital" editing, we need to think in terms of an appropriate computational pipeline.</p>
+</details>
+
+
+
+<details>
+  <summary>Transcription Options</summary>
+  <p>
+
+The beginning of the pipeline is the flexible text editor. By flexible I mean an editor that is amenable to Web publishing, and uses non-proprietary open source formatting. Many editors have used proprietary word processors to transcribe their editorial material. While that has many virtues (control of type-setting features, to name one), it presents a lot of problems if you are trying to optimize your workflow. E.g., if you transcribe an edition in Microsoft Word, you would have to transform that document (and all of its attendant proprietary code) into XML or HTML in order to make it work as a digital edition on the Web. Also data scientists or digital text analysts warn against using Microsoft Excel files for analysis because that program introduces unnecessary code that can hinder output.</p>
+
+<p>For us, the common understanding is that XML files should be our edition files of record. Ideally, all documents would be transcribed in XML from the beginning, but for a variety of reasons that is not always practicable.</p>
+
+<p>First we will look at the most basic of transcription: Markdown. This is lightweight web authoring at its best.
+</p>
+
+<p>**Which text editor?** We will be using the [Atom text editor](https://atom.io/). It features a very attractive Markdown previewer (with additional feature packages), and it is well-integrated with GitHub (upon which this course web site is built). Other good options are the [Sublime](https://www.sublimetext.com/) text editor, [BB Edit](https://www.barebones.com/products/bbedit/), and [Notepad ++](https://notepad-plus-plus.org/) (for Microsoft).</p>
+</details>
+
 <br />
 
 ### Markdown exercise
 
+First we will go through a slideshow:
 [Access the Markdown slides here.](https://christopherohge.com/MarkdownLRBS.pdf)
 
 - Download ["The Child on the Cliffs," by Edward Thomas](../thomas_edward_child_on_the_cliffs.txt).
@@ -190,6 +187,6 @@ The other option is to open a new TEI-XML document in oXygen or your preferred t
 
 ### Brief Introduction to XML
 
-[Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
+For the introduction: [Access the XML slides here.](https://christopherohge.com/XML-intro_LRBS.pdf)
 
 #### Proceed to [Day 2](day_2_plan.md)
