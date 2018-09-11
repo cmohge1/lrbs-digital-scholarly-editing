@@ -1,6 +1,6 @@
 To access the folders of course materials online, go to [https://github.com/cmohge1/lrbs-scholarly-editing](https://github.com/cmohge1/lrbs-scholarly-editing).
 
-Course readings are either hyperlinked in the plan of each of day or downloadable at [https://github.com/cmohge1/lrbs-scholarly-editing/scholarly-editing/readings](https://github.com/cmohge1/lrbs-scholarly-editing/scholarly-editing/readings). (Please save paper by reading these on your computer or tablet.)
+Course readings are either hyperlinked in the plan of each of day or downloadable at [https://github.com/cmohge1/lrbs-scholarly-editing/scholarly-editing/readings](https://github.com/cmohge1/lrbs-scholarly-editing/tree/master/readings). (Please save paper by reading these on your computer or tablet.)
 
 ## Schedule
 
