@@ -147,7 +147,12 @@ Print publication: The difference between putting the app crit at the foot of th
 
 For digital publication, the app crit is encoded within the text. For more on this, consult the TEI Guidelines, [Chapter 12](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html).
 
-Parallel segmentation method.  
+#### Negative versus positive apparatus
+The choice comes down to whether you are working with a **base text** (or copy-text). If you have chosen a base text, you are offering a negative apparatus, which is to say a record of variant readings that are different (taken away) from the preferred  readings in the text. Many editors will be more likely to do this when transferring a print edition into a TEI-XML digital edition. Yet it is also reasonable to this in a digital edition if one is working in an eclectic (critical) text model.
+
+If you are working without a base text, then you are collating full transcriptions of all the witnesses and noting their differences in the apparatus. This may be called a positive-comprehensive apparatus: an alignment of all variants at a particular location in the text, with witness attribution.
+
+Parallel segmentation method (TBD).  
 
 ### Seminar 8: Editing a clear text: stories and poems
 
@@ -155,7 +160,7 @@ Parallel segmentation method.
 
 [Click here to download the handout on annotation](/readings/on-notes.pdf)
 
-Dr Johnson's maxim: to correct what is corrupt, and clarify what is obscure.
+Dr Johnson's maxim: annotation is used to correct what is corrupt, and clarify what is obscure.
 
 William Empson: a great thinker about notes. See Empson's Introduction to the Notes to his *Collected Poems* (in the annotation handout). See also [Empson on obscurity and annotation](/readings/empson-obscurity-and-annotation.pdf).
 
