@@ -130,7 +130,7 @@ Greg's pragmatism: "The fact is that cases of revision differ so greatly in circ
 </details>
 <br />
 
-Example 1: Shakespeare: [<em>King Lear</em>](/readings/greg-on-king-lear.pdf) and [<em>Othello</em>](/readings/greg-on-othello.pdf). See Greg, from *Editorial Problems in Shakespeare*, and [Brian Vickers's review of the New Oxford Shakespeare](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
+Example 1:  See Greg, from *Editorial Problems in Shakespeare*: [<em>King Lear</em>](/readings/greg-on-king-lear.pdf) and [<em>Othello</em>](/readings/greg-on-othello.pdf), and [Brian Vickers's review of the New Oxford Shakespeare](https://www.the-tls.co.uk/articles/public/norton-new-oxford-shakespeare/).
 
 Example 2: Milton. See [Gaskell on <em>Comus</em>](/readings/Gaskell_on_Milton.pdf); see also Empson on Bentley's editing of Milton in <em>Some Versions of Pastoral</em>.
 
