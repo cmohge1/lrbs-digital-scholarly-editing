@@ -37,7 +37,7 @@ Time  | Topic                                                                   
 
 #### Readings
 
-1. [Greetham, "A History of Textual Scholarship"](/Day1/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
+1. [Greetham, "A History of Textual Scholarship"](/readings/greetham-history-textual-scholarship.pdf) (from the *Cambridge Companion to Textual Scholarship*).
 
 2. [A. E. Housman, "The Application of Thought to Textual Criticism"](/readings/housman_application_of_thought.html) (*Art and Error*).
 
