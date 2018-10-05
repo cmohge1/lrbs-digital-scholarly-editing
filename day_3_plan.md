@@ -9,7 +9,7 @@ permalink: /day3.html
 
 * [Aims](#aims)
 * [Schedule: Day 3 (Wednesday, 4 July)](#schedule-day-3-wednesday-4-july)
-	* [Seminar 6: Eclectic/clear text Editing](#seminar-6-eclecticclear-text-editing)
+	* [Seminar 6: Eclectic/Critical Text Editing](#seminar-6-eclecticcritical-text-editing)
 	* [Seminar 7: Encoding critical apparatus in TEI](#seminar-7-encoding-critical-apparatus-in-tei)
 	* [Seminar 8: Editing a clear text: stories and poems](#seminar-8-editing-a-clear-text-stories-and-poems)
 
@@ -32,7 +32,7 @@ Time | Topic | Type |
 14.00 (in SHL)  | Seminar 8: Editing a clear text: stories and poems; Principles of Annotation; Writing and encoding annotation | Discussion; Digital lab |
 16.00 | Library Time |
 
-### Seminar 6: Eclectic/clear text Editing
+### Seminar 6: Eclectic/Critical Text Editing
 
 #### Readings
 
