@@ -26,7 +26,6 @@ markdown: kramdown
 remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
